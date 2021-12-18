@@ -1,0 +1,1413 @@
+{"utterance": "But what if they know something? Maybe they could help?", "emotion": "Talk_Sad"}
+{"utterance": "May the Force serve you well.", "emotion": "Bow"}
+{"utterance": "Will you look at that? Poor Mekel has gone and died on us. Tsk tsk. And here I thought he was good for at least one more.", "emotion": "Talk_Sad"}
+{"utterance": "No, Carth! Don't do it!", "emotion": "Talk_Pleading"}
+{"utterance": "But what good is a single flicker of light against the sea of darkness I am drowning in? I can never atone for my betrayal.", "emotion": "Talk_Injured"}
+{"utterance": "I want you out of here! Off my ship!!", "emotion": "Talk_Forceful"}
+{"utterance": "Of course I deserved to be punished. They found me innocent.", "emotion": "Talk_Sad"}
+{"utterance": "I demand justice! The Sandral family is a blight upon Dantooine! They must be punished!", "emotion": "Talk_Forceful"}
+{"utterance": "All Republic forces pull back! Pull back!", "emotion": "Use_Computer_LP"}
+{"utterance": "Not for a monkey-lizard, no. Not bad at all.", "emotion": "Taunt"}
+{"utterance": "I ask you for an honorable death, but you are too weak to even grant me that! No more words! This must end with blood!", "emotion": "Talk_Forceful"}
+{"utterance": "Oh-ho! Spiteful little thing, aren't you? Let's not forget, however, who has whom at the disadvantage, shall we?", "emotion": "Talk_Laughing"}
+{"utterance": "[Failure] I'm sorry, but I can't take the chance. Are you sure you can't buy it from me?", "emotion": "Talk_Pleading"}
+{"utterance": "I'm not in the same situation, now. I wouldn't risk hurting you... or the others.", "emotion": "Talk_Sad"}
+{"utterance": "It's a bad year to try and become a Sith, you know... I've got it all wrapped up.", "emotion": "Taunt"}
+{"utterance": "Time to teach you a lesson, shlummie! [hic] Maybe you'll think twice about coming up into our turf!", "emotion": "Talk_Forceful"}
+{"utterance": "Uh... we aren't in your way, right? We don't want to... uh... get you mad or nothing.", "emotion": "Talk_Sad"}
+{"utterance": "I couldn't agree with you more. Just the sight of a Republic uniform makes me want to vomit. I can't wait until we crush them all like the pathetic vermin they are!", "emotion": "Drunk"}
+{"utterance": "Listen, sister... just because we're working together does not mean you get to badger me with constant questions!", "emotion": "Talk_Forceful"}
+{"utterance": "Commander Grann, report to the security desk immediately!", "emotion": "Use_Computer"}
+{"utterance": "Kashyyyk will be ours once more!", "emotion": "Victory"}
+{"utterance": "Yes, your outsider concerns must always come first. Just remember that this was my home. You are the stranger here.", "emotion": "Talk_Forceful"}
+{"utterance": "Bastila, I was wondering something. How did those Vulkars manage to capture a famous Jedi like you? Were you knocked out when your escape pod crashed?", "emotion": "Listen"}
+{"utterance": "I think you're interested in more than just the 'bond' between us.", "emotion": "Flirt"}
+{"utterance": "None of my business? Uh, I'm sorry... aren't I a part of this mission? The Jedi may be in charge, but I'm risking all the same things you are!", "emotion": "Talk_Forceful"}
+{"utterance": "Right. Off we go.", "emotion": "Talk_Laughing"}
+{"utterance": "Greetings, my friend. *chuckle* I do rather enjoy saying that.", "emotion": "Greeting"}
+{"utterance": "I might consider it. What are you going to call me, in exchange?", "emotion": "Talk_Laughing"}
+{"utterance": "I just think about all the evil that the Sith have caused and I... I get so furious. Yet we are told that these feelings are the path to the dark side.", "emotion": "Talk_Sad"}
+{"utterance": "We destroyed each other. We desired the secrets of each other, to increase our power... we battled until finally our fortress rained down on top of us.", "emotion": "Talk_Sad"}
+{"utterance": "[Success] I... I think I should pull in some favors and... get us moved off-world, men.", "emotion": "Persuade"}
+{"utterance": "I most certainly will not. What I have to say is for Bastila alone. It is... family business. That should be enough for her to come.", "emotion": "Talk_Forceful"}
+{"utterance": "Look... I'm sure we can talk about this...", "emotion": "Sleep"}
+{"utterance": "To which pillar do you wish to transfer power for the Mid-Lower System?", "emotion": "Use_Computer"}
+{"utterance": "[Failure] See? Dishonesty! We are taking an incalculable risk in even considering training this one!", "emotion": "Talk_Forceful"}
+{"utterance": "I have spent many years following in the memory of my father. I can't step away from a battle like this.", "emotion": "Talk_Sad"}
+{"utterance": "Never underestimate a Mandalorian. If I want, there won't be enough of you left to identify.", "emotion": "Talk_Forceful"}
+{"utterance": "And I warn you, we've had troublemakers before. The bay is lined with autoguns. Violence is not a survivable option.", "emotion": "Talk_Forceful"}
+{"utterance": "Will there be a place for me in your future? Do you... do you love me?", "emotion": "Talk_Injured"}
+{"utterance": "You felt it, yes? Another vision? The Force continues to work through us; showing us the Star Maps unearthed by Revan and Malak.", "emotion": "Talk_Normal"}
+{"utterance": "I think we both know the real reason you've been watching me.", "emotion": "Flirt"}
+{"utterance": "You are... too strong for me. Gather your hatred and strike me down... if that is your will.", "emotion": "Talk_Sad"}
+{"utterance": "Worm!", "emotion": "Talk_Forceful"}
+{"utterance": "I knew the off-worlder was a danger!", "emotion": "Talk_Forceful"}
+{"utterance": "We wait for your return. Anyone with credits is always welcome.", "emotion": "Victory"}
+{"utterance": "You could reprogram the damaged assault droid to help you, if you have enough repair parts.", "emotion": "Talk_Forceful"}
+{"utterance": "He was my son!!", "emotion": "Talk_Forceful"}
+{"utterance": "Well, you picked a real stinkhole to stop at. Republic soldiers are everywhere, those arrogant Selkath treating us Sith like we're second-class citizens.", "emotion": "Drunk"}
+{"utterance": "You are the only outsider that will survive us! We swear it!", "emotion": "Talk_Forceful"}
+{"utterance": "Hey, why are you getting so mad at me? It's not like this was my fault!", "emotion": "Talk_Forceful"}
+{"utterance": "Yeah, I knew you'd come through for me! You won't regret this... you'll see! Uh... just... just don't take too long, okay? This guy from the Exchange could stop by any day.", "emotion": "Victory"}
+{"utterance": "May the Force serve you well.", "emotion": "Bow"}
+{"utterance": "I... you know I can't feel that way about you. About any man. It isn't permitted. I am a Jedi, I must resist these temptations.", "emotion": "Talk_Sad"}
+{"utterance": "Hmph. You're as pathetic as they are, it looks like. Bah! I can't be bothered. Get out of here, all of you! The sight of you makes me sick to my stomach!", "emotion": "Taunt"}
+{"utterance": "What do YOU want?", "emotion": "Talk_Forceful"}
+{"utterance": "You didn't think I actually wanted to be a Sith, did you?", "emotion": "Taunt"}
+{"utterance": "Ha ha ha! I like that one.", "emotion": "Talk_Laughing"}
+{"utterance": "You... please, have you reconsidered? I must sell this desert wraid plate, but I have no license. Can you help?", "emotion": "Talk_Pleading"}
+{"utterance": "Please, will no one help? We need the credits. We have nothing.", "emotion": "Talk_Pleading"}
+{"utterance": "Ha ha ha! Oh, I wonder what Master Uthar will think of this! Alright, then... you have yourself a fight!", "emotion": "Talk_Laughing"}
+{"utterance": "Your loss wasn't the worst I've seen. I saw Yuka's big crash on Taris two years ago.", "emotion": "Talk_Sad"}
+{"utterance": "Do you believe Uthar would not be aware of this? He would quickly figure out what you have to gain by betraying him... and would never believe someone would pass that up.", "emotion": "Persuade"}
+{"utterance": "[Failure] Liar! The guards would have announced you! Gadon - we've been betrayed again!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] You will find Sunry innocent.", "emotion": "Persuade"}
+{"utterance": "[Force Persuade] You will let me inside.", "emotion": "Persuade"}
+{"utterance": "Fine! Just take the thing and go, then. I'll deactivate the restraining bolt when you take possession.", "emotion": "Talk_Forceful"}
+{"utterance": "You fool! You have no idea what you've done!", "emotion": "Talk_Forceful"}
+{"utterance": "What... what are you talking about? I warn you, outsider, I won't tolerate your lies in my home.", "emotion": "Talk_Forceful"}
+{"utterance": "Never! A Mandalorian will never fall before such as you!", "emotion": "Talk_Forceful"}
+{"utterance": "That will never happen again, thanks to you. Curse the Council for sending you, of all people, to speak to her! Could you have done nothing else?!", "emotion": "Talk_Forceful"}
+{"utterance": "Out of my way - unless you want to feel the wrath of the Sith!", "emotion": "Talk_Forceful"}
+{"utterance": "Are you sure you want to die?", "emotion": "Taunt"}
+{"utterance": "You are beneath my contempt, Juhani. When you felt the power of the dark side you fled to a cave like some cowering animal! You know nothing of the Force or its true potential!", "emotion": "Talk_Forceful"}
+{"utterance": "*Sigh* I knew you wouldn't understand where I was coming from. Let me try to explain.", "emotion": "Talk_Sad"}
+{"utterance": "See! I knew that the off-worlder was guilty! They all are!", "emotion": "Talk_Forceful"}
+{"utterance": "If the Republic cared at all they would laser the desert from orbit. Let's see the Sand People hide on a sheet of glass.", "emotion": "Talk_Forceful"}
+{"utterance": "I... could have stopped him. I could have stopped it all.", "emotion": "Talk_Sad"}
+{"utterance": "That can be arranged. Remember what happened to Taris - Malak could do the same to the Core worlds!", "emotion": "Talk_Forceful"}
+{"utterance": "We have to! We have to leave! The Selkath, they went crazy! They started killing anything that moved. Someone must have triggered the defense systems too, 'cause all the droids activated as well.", "emotion": "Talk_Forceful"}
+{"utterance": "But how would you be able to trust me? How do you know I wouldn't turn on you when you faced Darth Malak? How do you know the dark side wouldn't make me betray you again?", "emotion": "Talk_Pleading"}
+{"utterance": "Ha ha! Then I'd say you have quite an imagination. Not a bad thing, but not *quite* what I'm looking for in a proper Sith.", "emotion": "Talk_Laughing"}
+{"utterance": "Bastila has told us of a most unusual development. She claims you and she have shared a dream, a vision of Malak and Revan in the ancient ruins here on Dantooine.", "emotion": "Talk_Forceful"}
+{"utterance": "On that note, let's begin!", "emotion": "Victory"}
+{"utterance": "We're under attack! Guards! Guards!", "emotion": "Talk_Forceful"}
+{"utterance": "Let's get these tests over with!", "emotion": "Talk_Forceful"}
+{"utterance": "Do not think that we Selkath, the pinnacle of evolution, can be swayed by such means!", "emotion": "Talk_Forceful"}
+{"utterance": "*groan*", "emotion": "Talk_Injured"}
+{"utterance": "You... you fool! You will never... never be a Sith, now!!", "emotion": "Talk_Forceful"}
+{"utterance": "Manlorey bristag na laesfa. Manlorey bristag is na gon-disen!", "emotion": "Talk_Forceful"}
+{"utterance": "We lose more of our most promising warriors everyday.", "emotion": "Talk_Sad"}
+{"utterance": "It is most regrettable that Juhani could not be saved. We in the Council had high hopes for her in the future.", "emotion": "Flirt"}
+{"utterance": "What are you doing back here? Look, you got what you wanted, so just let us get back to corralling these animals.", "emotion": "Talk_Forceful"}
+{"utterance": "I just can't believe he's dead. I... you should have stopped him! You should have done something to prevent this!", "emotion": "Talk_Forceful"}
+{"utterance": "Quickly - I must inject it before it is too late. Yes... I feel it working!", "emotion": "Inject"}
+{"utterance": "Go on, leave me alone. I've got stuff to worry about.", "emotion": "Talk_Sad"}
+{"utterance": "But... even if it's not Revan... what if Master Uthar is actually dead? Someone who could kill the master...", "emotion": "Scratch_Head"}
+{"utterance": "Hurry, Hendar, hurry! I can hear it coming!", "emotion": "Talk_Forceful"}
+{"utterance": "You are brave... and foolish. The dark side has wholly consumed me, and you will suffer for failing to see that!", "emotion": "Talk_Forceful"}
+{"utterance": "This other student here that I captured earlier you should know well enough. His name is Mekel. Say hello, Mekel.", "emotion": "Persuade"}
+{"utterance": "The Council must be told about what we have discovered! Meet me in the Council chambers.", "emotion": "Talk_Forceful"}
+{"utterance": "Get lost, spacer. I've had enough of you.", "emotion": "Talk_Forceful"}
+{"utterance": "I'm sorry, Woorwill. I didn't want you to know. So much is against us... you need someone to look up to.", "emotion": "Talk_Pleading"}
+{"utterance": "Don't get me started on Czerka Corp.!", "emotion": "Talk_Forceful"}
+{"utterance": "I know that. I'm not angry at you... don't think that. I must not be making much sense.", "emotion": "Talk_Sad"}
+{"utterance": "Oh, my!", "emotion": "Flirt"}
+{"utterance": "You can count on seeing me later, though. My lightsaber has your name on it.", "emotion": "Taunt"}
+{"utterance": "Oh, of course, Shaardan! Anything you command us!", "emotion": "Talk_Pleading"}
+{"utterance": "No... I can't. The Selkath will get me! The Firaxa will eat us! I can't! I can't!", "emotion": "Horror"}
+{"utterance": "At last, my search is over! I was beginning to fear someone else had killed you and deprived me of the pleasure.", "emotion": "Talk_Normal"}
+{"utterance": "I don't want to talk about that.", "emotion": "Talk_Sad"}
+{"utterance": "Quickly - I must inject it before it is too late. Yes... I feel it working!", "emotion": "Inject"}
+{"utterance": "We should kill him now! Before anyone knows!", "emotion": "Taunt"}
+{"utterance": "And what would you do? Harm me? You think you're wearing those clothes, here, and carrying those weapons? Interesting, really.", "emotion": "Talk_Laughing"}
+{"utterance": "I always thought they held me back, were jealous of my power. But it is only because I was not good enough to meet their standards... I never have been.", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] N-never! Your... your mind tricks... do not work on me! They are useless! As... as are you!", "emotion": "Talk_Forceful"}
+{"utterance": "If only I could believe you. Let's... get this over with. Quickly.", "emotion": "Talk_Sad"}
+{"utterance": "Back off, I'm warning you! I'm not giving this up!", "emotion": "Talk_Forceful"}
+{"utterance": "My daughter is not a harlot, Matale dog!", "emotion": "Talk_Forceful"}
+{"utterance": "Please don't hurt me! I don't want a fight!", "emotion": "Talk_Pleading"}
+{"utterance": "Be quiet! That is merely a myth, and not fit for outsiders to hear!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] You... you try to manipulate my mind off-worlder! We do not tolerate such insolence and disrespect for authority here on Manaan!", "emotion": "Talk_Forceful"}
+{"utterance": "You have? Did Fazza give a good price? How much did you get for us?", "emotion": "Talk_Pleading"}
+{"utterance": "You did it - you got the top time! You just beat racers who've been doing this for twenty years! This is amazing!", "emotion": "Victory"}
+{"utterance": "I... I must know something, first, before that happens. I must ask you something.", "emotion": "Talk_Injured"}
+{"utterance": "Oh, hey, it's you. I remember you at Fazza's place. Could I get you to help out a fellow hunter? Please?", "emotion": "Talk_Pleading"}
+{"utterance": "You race, right? Know anything about contracts? Ah, I shouldn't get into it. It's my problem.", "emotion": "Talk_Sad"}
+{"utterance": "Do you miss your kin when they are taken from you, outsider? I doubt you feel the same as we do.", "emotion": "Talk_Sad"}
+{"utterance": "But now things have become so very complicated...", "emotion": "Flirt"}
+{"utterance": "I doubt they'll have much to say to you, either. After that stuff with Nico, seems you're more a promotor than a racer.", "emotion": "Talk_Sad"}
+{"utterance": "They should all be wiped out. Every last one of them.", "emotion": "Talk_Forceful"}
+{"utterance": "Mere rubbish? It's D-A02, the repair droid from my ship! What was this doing in the forest?", "emotion": "Talk_Forceful"}
+{"utterance": "Oh, stop being such a baby. Are you always so quick to turn aside an ally? Got too many of them, do you?", "emotion": "Talk_Forceful"}
+{"utterance": "To an outsider? You truly are a mad-claw. Don't taint my ears with your ravings. I'll speak to your owner, not you.", "emotion": "Talk_Forceful"}
+{"utterance": "Bah! Tube-heads can't hunt. Why they allowed here?", "emotion": "Talk_Forceful"}
+{"utterance": "AAAAHHHHHHH!!!", "emotion": "Horror"}
+{"utterance": "No... do not hurt me! I... I will do as you command. I will begin the ritual.", "emotion": "Talk_Pleading"}
+{"utterance": "You gained an advantage and you share it freely? Let them rip the secret from my dead hands, I say! I mean... 'share it'?! Are you mad?!", "emotion": "Talk_Forceful"}
+{"utterance": "You didn't kill her? How very foolish. Now you have an enemy to contend with. The holocron, itself, is an impressive item, however.", "emotion": "Persuade"}
+{"utterance": "[Success] And I wouldn't want you to leave without this additional reward. Yes, of course I wouldn't.", "emotion": "Persuade"}
+{"utterance": "I hear that the deal is pretty bad, but I'd take it in a second. I don't have Nico's skill, though.", "emotion": "Talk_Sad"}
+{"utterance": "You mean you sliced into our... That is a very serious crime! We could have you executed for treason if that information caused any harm!", "emotion": "Talk_Forceful"}
+{"utterance": "You're rationalizing, Bastila. You're just scared to face the truth!", "emotion": "Talk_Forceful"}
+{"utterance": "Go on, mercenary, leave me alone. I haven't the money to pay for your loyalty.", "emotion": "Talk_Forceful"}
+{"utterance": "This is the place you have invaded. When I embraced the dark side, this was where I sought my solace. It is MINE!", "emotion": "Talk_Forceful"}
+{"utterance": "*snort* Ha ha, boys, it talk to me! What you want, humee? Gurke has no time for you.", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] My droid... destroyed? No, no! This cannot be happening! I can't bear to live without him!", "emotion": "Talk_Sad"}
+{"utterance": "You admit to your crime!", "emotion": "Talk_Forceful"}
+{"utterance": "Oh no, I'm not dealing with you again! You don't make a good business partner!", "emotion": "Talk_Forceful"}
+{"utterance": "If I go back on my vow I am betraying myself, my people and my ancestors. I cannot do that. Please, Mission - join us.", "emotion": "Talk_Sad"}
+{"utterance": "I have every right! Shen is my son!", "emotion": "Talk_Forceful"}
+{"utterance": "Please, make him open the gate. Hendar will die if he doesn't!", "emotion": "Talk_Pleading"}
+{"utterance": "Remember my dying words. *cough* Remember them whenever *cough*... whenever you look at those you thought were your friends!", "emotion": "Prone"}
+{"utterance": "Back off! I'm no Padawan! I'm <FullName>. I just came here with Bastila.", "emotion": "Talk_Forceful"}
+{"utterance": "Then it ends here.", "emotion": "Talk_Sad"}
+{"utterance": "[Force Persuade] You want to tell me.", "emotion": "Persuade"}
+{"utterance": "He was new to hunting, but he was a good fighter. Used to be a soldier. We spent everything on his gear.", "emotion": "Talk_Sad"}
+{"utterance": "Promising? Hmmph. That one's not worthy to lick spit off your shoes, master.", "emotion": "Taunt"}
+{"utterance": "Excellent. Soon all your secrets will be mine!", "emotion": "Taunt"}
+{"utterance": "There is no emotion: there is peace. There is no ignorance: there is knowledge. There is no passion: there is serenity. There is no chaos: there is harmony...", "emotion": "Talk_Injured"}
+{"utterance": "Don't waste much thought on it. It was purely a personal matter that has no bearing today.", "emotion": "Talk_Sad"}
+{"utterance": "You... You insolent boy! If you want to live alone then so be it! I disown you! Never set foot in my house again!", "emotion": "Talk_Forceful"}
+{"utterance": "Haha! Your kind always were weak-minded!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] Why you wave your arm like that? No flies in here. Go away, scaredy.", "emotion": "Persuade"}
+{"utterance": "You monster! How can you say that? Somebody do something!", "emotion": "Talk_Sad"}
+{"utterance": "The Force has given us a... a vision. Like the one we shared on Dantooine. Did you see it? Of course... you must have. The Force is strong with us both.", "emotion": "Talk_Normal"}
+{"utterance": "[Force Persuade] But I'm your friend - you want to tell me what you know.", "emotion": "Persuade"}
+{"utterance": "You're wrong Mission - I'm the Dark Lord now! Taste my wrath!", "emotion": "Taunt"}
+{"utterance": "This is private property! By what authority are you trespassing on this estate?", "emotion": "Talk_Forceful"}
+{"utterance": "[Apply anti-serum: small dosage.]", "emotion": "Use_Computer"}
+{"utterance": "So, Bastila, I heard a rumor that the Vulkars captured you without much of a struggle. It must be embarrassing to be bested by a handful of street thugs.", "emotion": "Listen"}
+{"utterance": "I understand congratulations are in order! You've decided to join the Jedi rank and file! Jedi <FullName>!", "emotion": "Greeting"}
+{"utterance": "Don't tell me not to take it personally, you hairless Wookiee!", "emotion": "Talk_Forceful"}
+{"utterance": "So, Jolee, you decided to leave your little hermitage in the forest and come help us stop the Sith. I guess you realized this was worth coming out of retirement for, huh?", "emotion": "Listen"}
+{"utterance": "Take it... take it and the other blades, even... take them and go. My darkness awaits me...", "emotion": "Talk_Sad"}
+{"utterance": "You... are one of the Sith from the academy, yes? Would you happen to be looking for new prospects?", "emotion": "Bow"}
+{"utterance": "[This man fearfully avoids your eyes. He couldn't say anything to you even if he wanted.]", "emotion": "Pause"}
+{"utterance": "You could have found this anywhere! For all we know, you killed Galas!", "emotion": "Talk_Forceful"}
+{"utterance": "I have to give you credit... you've led me on quite a chase. But nobody gets away from Calo Nord in the end!", "emotion": "Talk_Normal"}
+{"utterance": "I am ashamed that he would ask outsiders to track such a creature. Why couldn't our own hunters remove his dishonor?", "emotion": "Talk_Sad"}
+{"utterance": "Hold on there! How about talking to me before you go messing with those things? I need your help.", "emotion": "Greeting"}
+{"utterance": "Na abds! Me hoot bad liaz!! Awnts!!", "emotion": "Talk_Forceful"}
+{"utterance": "Why did you have to poison the water?? We don't know what effect it could have on the environment around here... or on the kolto.", "emotion": "Talk_Forceful"}
+{"utterance": "I am a Sith apprentice now. You place too much faith in what I used to be... and for that you shall pay!", "emotion": "Talk_Forceful"}
+{"utterance": "He's taught me a lot. He said I could grow up as strong as him, that I'd fight you too. I will, too. I will.", "emotion": "Talk_Sad"}
+{"utterance": "I... I am too a Sith! I'm more a Sith than you are! I'll show you!!", "emotion": "Talk_Forceful"}
+{"utterance": "Please, Bastila... if you feel anything for me, you won't do this!", "emotion": "Talk_Pleading"}
+{"utterance": "You can't win, Bastila. Now you must die!", "emotion": "Talk_Forceful"}
+{"utterance": "Rorworr is the latest of us to go missing. I hope your outsider slavers lost many men trying to cage him.", "emotion": "Talk_Sad"}
+{"utterance": "Get lost, Sith. I'm not falling for any of your tricks.", "emotion": "Talk_Forceful"}
+{"utterance": "I heard the Jedi finally got off their behinds and did something about the Mandalorians! Took them long enough!", "emotion": "Talk_Forceful"}
+{"utterance": "Carth... Carth....", "emotion": "Prone"}
+{"utterance": "Give it up, men. If we don't pay this leech we'll get a black mark on our records a sunspot couldn't burn off.", "emotion": "Talk_Sad"}
+{"utterance": "I know every circuit in droid, and I been in this business too long not to notice clumsy mine placed on bike.", "emotion": "Talk_Normal"}
+{"utterance": "No. If it did, I would never have met you.", "emotion": "Talk_Sad"}
+{"utterance": "Still... [cough] still spouting the wisdom the Jedi, I see. Maybe there is more truth in their code than I ever believed.", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "I'm all ears, beautiful.", "emotion": "Flirt"}
+{"utterance": "I am no beggar! I just need a little help, is all. There is no one for me to turn to on this wretched planet.", "emotion": "Talk_Forceful"}
+{"utterance": "The fight was stopped, but my father did not believe me when I told him about my brother's actions.", "emotion": "Talk_Sad"}
+{"utterance": "Ha! Why didn't you tell me that sooner? You would have saved me a lot of trouble.", "emotion": "Talk_Laughing"}
+{"utterance": "Your pass-card is out of date! And I don't recognize you at all! We'll get to the bottom of this soon enough!", "emotion": "Talk_Forceful"}
+{"utterance": "The dark side will always triumph over the light! Malak has assured me of victory! You can't defeat me here on the Star Forge! YOU CAN'T!", "emotion": "Talk_Forceful"}
+{"utterance": "Ahhhh, but listen to me go on as if I had all the answers. What do I know of love anymore? I'm just a lonely old man who's not even a Jedi.", "emotion": "Talk_Sad"}
+{"utterance": "What? But... but I trusted you! How can you stand there and... and... No, I won't give you the satisfaction.", "emotion": "Talk_Pleading"}
+{"utterance": "But... it was not enough...", "emotion": "Talk_Sad"}
+{"utterance": "That is too bad. The hunt will have to wait for you. I can't do this alone.", "emotion": "Talk_Sad"}
+{"utterance": "Well, the wife doesn't really take much of an interest in my work. Not like you. Now, you have questions?", "emotion": "Talk_Sad"}
+{"utterance": "Ha ha! Looks like this one's not afraid of you at all, Lashowe.", "emotion": "Talk_Laughing"}
+{"utterance": "We did a good ambush and you and you better pay... uh... maybe 500 credits now! You die otherwise!", "emotion": "Taunt"}
+{"utterance": "Here, take some cred's, if that's what you want. Go drown in a drink, like every other failure in here.", "emotion": "Talk_Forceful"}
+{"utterance": "Phew! Don't scare me like that. All right, lesson learned, or whatever. Can you please try to get them going?", "emotion": "Talk_Pleading"}
+{"utterance": "You're not getting the holocron. This was my idea! The plan was that I take it back, not you!", "emotion": "Talk_Forceful"}
+{"utterance": "No it does not suffice!", "emotion": "Talk_Forceful"}
+{"utterance": "Hmph. To think that I actually hoped you could be of use to me.", "emotion": "Taunt"}
+{"utterance": "This isn't tough to figure out, you know. You don't pay, we bury you here!", "emotion": "Ready"}
+{"utterance": "Thanks again. I doubt any of those uptight hunters would have helped, and I doubt the wife is coming back.", "emotion": "Talk_Sad"}
+{"utterance": "Bastila doesn't stand a chance against Malak, but we can't help her. Not here. We have to get off this ship and find the Star Forge. That's the key to beating the Dark Lord!", "emotion": "Listen_Injured"}
+{"utterance": "But... Gurke said you types have lots of money!", "emotion": "Talk_Forceful"}
+{"utterance": "The generator will wrap you in a cloaking effect so you can sneak past the Sith. Just be careful you don't get too close or he might notice someone's there.", "emotion": "Use_Computer_LP"}
+{"utterance": "Thank you! Thank you, master Jedi! If you find him, please send him home to me. I need him so much!", "emotion": "Talk_Pleading"}
+{"utterance": "Don't play dumb. You're just another of his playthings down at that \"hunting\" club. I know your type through and through.", "emotion": "Talk_Forceful"}
+{"utterance": "You underestimate the strength of a Jedi's mind, Brejik - a mistake you won't live to regret!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] Not with a Matale she won't!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] You wish to tell us more about this agreement with the Wookiee leadership.", "emotion": "Persuade"}
+{"utterance": "They claim the dark side is evil, but that isn't so. Sometimes anger and hatred are deserved and right. Sometimes things change because of it.", "emotion": "Talk_Sad"}
+{"utterance": "Who are you? You can't come in here! Sound the alarm, Gadon!", "emotion": "Talk_Forceful"}
+{"utterance": "Of course it won't happen again if you never trust anyone!", "emotion": "Talk_Forceful"}
+{"utterance": "I... I will... it is in... it is in my ship. The cache... it is in a trap door... hidden on my ship...", "emotion": "Talk_Sad"}
+{"utterance": "Hmm, dear dear. I'm saying they both had something to do with it! They've both kept their hands in this from the start!", "emotion": "Talk_Forceful"}
+{"utterance": "I've had enough out of you. You either get Czerka authorization to leave or get out of my space.", "emotion": "Talk_Forceful"}
+{"utterance": "You there! Human! You are placed under the arrest of the Ahto City Civil Authority!", "emotion": "Talk_Forceful"}
+{"utterance": "I am a Sith, now! My power is supreme! Prepare to die, ha ha!!", "emotion": "Talk_Forceful"}
+{"utterance": "Get lost, tenderfoot. I hunt desert wraid, I don't babysit.", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] Nothing happened down at the Rift.", "emotion": "Persuade"}
+{"utterance": "Drooling Bomarr cast-off!", "emotion": "Talk_Forceful"}
+{"utterance": "I guess you're not quite up to taking the big prize. It's a shame.", "emotion": "Talk_Sad"}
+{"utterance": "Is that a joke? Who do you think you are?", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] You don't need any credits to take them.", "emotion": "Persuade"}
+{"utterance": "[Success] Well, when you put it like that. *ahem* Very well then, if it will get you to help me.", "emotion": "Talk_Sad"}
+{"utterance": "The payoff from research is too much of a risk for Czerka to spend much money on it. Slaves are proven commodities.", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] Uh, no I don't and no I don't. What do you think you are, a Jedi? Heh. That's a laugh.", "emotion": "Persuade"}
+{"utterance": "Go on, leave me be. I will find the holocron myself, if I have to.", "emotion": "Talk_Forceful"}
+{"utterance": "The case of Sunry from the Republic is a perfect example of why off-worlders should be expelled from Manaan!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] ...but I *need* those circuits, master. Please, master... do not destroy my chips out of frustration. Calm yourself, I implore you.", "emotion": "Talk_Sad"}
+{"utterance": "Uh. *That* is one bet I'm not about to take. Not a chance.", "emotion": "Persuade"}
+{"utterance": "[Force Persuade] We are authorized to be here.", "emotion": "Persuade"}
+{"utterance": "No? Blast it! What have they been teaching you children in that academy these days!", "emotion": "Talk_Forceful"}
+{"utterance": "I'd, ahh, really appreciate a bit of help. Please?", "emotion": "Talk_Pleading"}
+{"utterance": "[How do you wish to use the console?]", "emotion": "Use_Computer_LP"}
+{"utterance": "There we go.", "emotion": "Use_Computer"}
+{"utterance": "They were like animals. It was horrible.", "emotion": "Talk_Sad"}
+{"utterance": "I have sworn a life debt to you, Revan. I will serve you as long as I draw breath. I will not break my vow. But you cannot ask me to turn on my best friend.", "emotion": "Talk_Sad"}
+{"utterance": "That doesn't mean a thing! He was there, running from the room!", "emotion": "Talk_Forceful"}
+{"utterance": "Well, I'm mad too. There's not much of a retirement plan I can count on if the whole outpost goes belly up. I'll be just like you.", "emotion": "Talk_Forceful"}
+{"utterance": "Huh... that didn't go well. Sis always was a little too fiery for her own good. She'll cool down in time.", "emotion": "Talk_Sad"}
+{"utterance": "Then I have... the eternity I deserved. It has taken me... so long to realize that. I made my choice long ago.", "emotion": "Talk_Sad"}
+{"utterance": "Yes? Is there something you wish? I have a moment or two while others post their times.", "emotion": "Flirt"}
+{"utterance": "It used to be a one-on-one test, hunter against hunted. Now, people just want the credits.", "emotion": "Talk_Sad"}
+{"utterance": "Just... go, Dak.", "emotion": "Talk_Sad"}
+{"utterance": "Ha-ha! Smart-mouthed newcomers, to boot.", "emotion": "Talk_Laughing"}
+{"utterance": "Preposterous!", "emotion": "Talk_Forceful"}
+{"utterance": "Kill them! Kill them now!", "emotion": "Talk_Forceful"}
+{"utterance": "I don't see Davik doing anything for his share. We do all the work. Davik claims he's part of the Exchange, so let's see him prove it.", "emotion": "Talk_Forceful"}
+{"utterance": "Hey, come on. I don't want any trouble. Here, take what little I have. Just don't hurt me.", "emotion": "Talk_Pleading"}
+{"utterance": "Ouch. Heh heh heh. That *is* better. Well, I bet \"beautiful\" doesn't sound so bad in comparison now, does it?", "emotion": "Talk_Laughing"}
+{"utterance": "Please... this is too painful. End it now, quickly. There is no other way.", "emotion": "Talk_Sad"}
+{"utterance": "Dak? That is you, isn't it? I... hardly recognized you.", "emotion": "Talk_Sad"}
+{"utterance": "What! You talk pretty big. Maybe yous should take that back. Gurke and boys tough!", "emotion": "Talk_Forceful"}
+{"utterance": "Yeah, we are sick of the talking!", "emotion": "Taunt"}
+{"utterance": "Leave me to my hopelessness!", "emotion": "Horror"}
+{"utterance": "Now, if we are through, I must get back to my race preparations. I prefer to leave your unpleasantness behind.", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] You haven't warned me. I'm a nice person. You like me.", "emotion": "Persuade"}
+{"utterance": "Greetings again, citizen. Something you need?", "emotion": "Greeting"}
+{"utterance": "At any rate, thank you again. You've saved our lives.", "emotion": "Bow"}
+{"utterance": "Bring it on!", "emotion": "Talk_Forceful"}
+{"utterance": "You are not Revan! Quick, attack the traitor!!", "emotion": "Talk_Forceful"}
+{"utterance": "Bastila sacrificed herself so we could get away. We can't let her sacrifice be in vain! Come on!", "emotion": "Listen_Injured"}
+{"utterance": "You've got a bad attitude. Maybe I can adjust it for you!", "emotion": "Talk_Forceful"}
+{"utterance": "Wait a minute, let me get this straight. You *lost* your lightsaber? Ha-ha! I mean, isn't that a violation of some kind of Jedi code or something?", "emotion": "Talk_Laughing"}
+{"utterance": "*Grunt*", "emotion": "Horror"}
+{"utterance": "Your friends do not give up easily, Revan; you always could inspire loyalty. But even the three of you together cannot stand against my power!", "emotion": "Talk_Forceful"}
+{"utterance": "You could start by telling me what you got Father into that killed him.", "emotion": "Talk_Forceful"}
+{"utterance": "There you are! What happened?", "emotion": "Talk_Normal"}
+{"utterance": "I have heard there was some sort of large battle to the south of here between two families of settlers.", "emotion": "Talk_Sad"}
+{"utterance": "You were born out of the loop.", "emotion": "Flirt"}
+{"utterance": "You have this huge destiny waiting for you, and I just fear that if you're alone it could swallow you whole. I mean, is there room in there for me? Will you let me help you?", "emotion": "Talk_Pleading"}
+{"utterance": "Greetings, my young friend. I assume you are not a member of the Order, as you are not wearing the traditional garb of the Jedi.", "emotion": "Greeting"}
+{"utterance": "[Success] I won't use droids. You have to make sure the hunt goes on, right? Eh, now, could you help?", "emotion": "Persuade"}
+{"utterance": "Enough! Off-worlders are not to hear of such things!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] Ha ha ha ha! Now *that* has to be the funniest thing I've heard all day.", "emotion": "Talk_Laughing"}
+{"utterance": "I wouldn't have any idea who to trust. My husband didn't know most of them... he wasn't a proven hunter yet.", "emotion": "Talk_Sad"}
+{"utterance": "It's better than whatever your chemical will do to the water!", "emotion": "Talk_Forceful"}
+{"utterance": "Hahaha! You are most perceptive, I see! Not many people can tell that at first glance.", "emotion": "Talk_Laughing"}
+{"utterance": "Yes... what I did was wrong. Very wrong.", "emotion": "Talk_Sad"}
+{"utterance": "Resignation: You have no idea, master. No idea at all. Can we please go and shoot something now?", "emotion": "Talk_Sad"}
+{"utterance": "And though we abandon you, may Bacca lead you through your shame.", "emotion": "Talk_Sad"}
+{"utterance": "[Force Persuade] You don't need to collect the fee.", "emotion": "Persuade"}
+{"utterance": "Carth... *cough*... must tell you... *cough* must tell you something... *cough, cough*... come closer....", "emotion": "Prone"}
+{"utterance": "We spent everything on my husband's hunting gear. We hoped that the sport would support us. We hoped...", "emotion": "Talk_Sad"}
+{"utterance": "[You try to pick up the gizka, but it wriggles from your grasp and plops back down to the floor.]", "emotion": "Victory"}
+{"utterance": "I can't attempt this alone. If you won't help, I will have to wait for another hunter to come. The offer stands, if you change your mind.", "emotion": "Talk_Sad"}
+{"utterance": "Well, it's sad to say, but it's that time again, Mekel.", "emotion": "Sleep"}
+{"utterance": "Thank you for saving me. I shall attempt to return to the Enclave on my own. I will tell the Council of what you have done.", "emotion": "Talk_Injured"}
+{"utterance": "Hurry it up, will you? You're not getting through here until I see the proper authorization.", "emotion": "Talk_Forceful"}
+{"utterance": "You just keep quiet there, you! I've had to put up with all your busy-body questions, haven't I? Well, now you'll listen to a story, dammit!", "emotion": "Talk_Forceful"}
+{"utterance": "There's not enough jobs here for permanent citizens, let alone you spacer drop-ins.", "emotion": "Talk_Sad"}
+{"utterance": "What? Why? What did I do to you?", "emotion": "Talk_Pleading"}
+{"utterance": "Come on, what's the matter? Afraid I'll drink you under the table? Hey, if you're not man enough to keep up, who needs you?", "emotion": "Drunk"}
+{"utterance": "I'm still strong enough to defeat you, Bastila!", "emotion": "Talk_Forceful"}
+{"utterance": "I have to give you credit... you've led me on quite a chase. But nobody gets away from Calo Nord in the end!", "emotion": "Talk_Normal"}
+{"utterance": "Well, then, I guess \"gorgeous\" will have to do until then, won't it?", "emotion": "Talk_Laughing"}
+{"utterance": "You are beneath my contempt, old man! You hid like a coward for decades on Kashyyyk! You know nothing about the true potential of the Force!", "emotion": "Talk_Forceful"}
+{"utterance": "All my secrets are purely of the mundane variety, unfortunately. Nothing worth extracting, though you're welcome to try.", "emotion": "Persuade"}
+{"utterance": "Never! I shall... destroy you first! Die here... remain forever with me!", "emotion": "Talk_Forceful"}
+{"utterance": "You will do no such thing! I am your father and I order you to come back with me!", "emotion": "Talk_Forceful"}
+{"utterance": "Leave me alone, will you. I've got things on my mind.", "emotion": "Talk_Sad"}
+{"utterance": "There has been a report of a terrible battle near the Sandral estate to the south of the Enclave. Apparently a large force of droids attacked the estate.", "emotion": "Flirt"}
+{"utterance": "Sorry. Didn't mean to... embarass you. I'll stop.", "emotion": "Talk_Sad"}
+{"utterance": "He wouldn't dare!", "emotion": "Talk_Forceful"}
+{"utterance": "You are a spy... and a murderer. It was you who killed Juhani and placed this bitter blackness in my heart that I cannot get rid of!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] Do you really think my mind is that weak? I'm practically insulted. Now instead of trying the easy way out, give me a real answer.", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I suppose you are correct. It won't hurt anything if I just let you on through.", "emotion": "Persuade"}
+{"utterance": "To my shame, Zaalbar was exiled and enslaved. Do you dare claim to be my son's owner, outsider?", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] ...now close the last panel. Hmmm... I am afraid the operation did not succeed, master, though it was a valiant attempt for a meatbag.", "emotion": "Talk_Sad"}
+{"utterance": "It was all thanks to this kind Jedi that we managed to get this far at all. I thank you Jedi, for all that you have done for us.", "emotion": "Talk_Pleading"}
+{"utterance": "Do not let your attention waver! Strike her down!!", "emotion": "Talk_Forceful"}
+{"utterance": "No! Rahasia! I'll kill you!", "emotion": "Ready"}
+{"utterance": "Bah! I can't be bothered with fools! Perhaps... I should... hmmm.", "emotion": "Talk_Forceful"}
+{"utterance": "I can do whatever I want! You can't control me!", "emotion": "Talk_Forceful"}
+{"utterance": "We know about the station and our personnel there! What has happened to them?", "emotion": "Talk_Forceful"}
+{"utterance": "Oh, my!", "emotion": "Flirt"}
+{"utterance": "Well... yeah, true enough, I guess. But, damn it, I'm tired of nobody telling me anything!", "emotion": "Talk_Forceful"}
+{"utterance": "You ever tried this Tarisian extra-dark ale? It's very good - Brejik doesn't skimp on the refreshments around here - I'll give him that!", "emotion": "Inject"}
+{"utterance": "I'm just a soldier; I go where the fleet Admirals tell me to. I follow my orders and I do my duty. It just... *sigh* doesn't seem right that doing that means I failed them! I didn't!", "emotion": "Talk_Forceful"}
+{"utterance": "And so it ends as I somehow always knew it must: in darkness.", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "So why don't you get this whole farce over with and send that whiner Handon to the prison he belongs in!", "emotion": "Talk_Forceful"}
+{"utterance": "Use the Force, then. Look into your heart and you will realize what is truth and what is lies.", "emotion": "Persuade"}
+{"utterance": "What? Oh, right, thanks. I guess I'll just DIE! Come on, help a guy out!", "emotion": "Talk_Pleading"}
+{"utterance": "Where did you get that, outsider? Did you have someone steal it? Have you sunk to petty theft now?", "emotion": "Talk_Forceful"}
+{"utterance": "You can't win, Bastila. Now you must die!", "emotion": "Talk_Forceful"}
+{"utterance": "Ask the human what happened!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] You want to come out of that room. You feel safe with us.", "emotion": "Persuade"}
+{"utterance": "I... would prefer not to discuss that.", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] You... must think I am a great f-fool! Go away! I will get in, I will!", "emotion": "Talk_Forceful"}
+{"utterance": "And you'd better appreciate it!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] Ha! I don't recognize you and I know every Sith on this planet! We'll get to the bottom of this!", "emotion": "Talk_Forceful"}
+{"utterance": "No, Revan, it is you who are doomed!", "emotion": "Talk_Forceful"}
+{"utterance": "That's it, huh? Oh, figured you would be able to spare a bit more than that, but, you know, I'll take whatever I can get. Don't worry about me... I've already got a job waiting for me.", "emotion": "Talk_Sad"}
+{"utterance": "Oh? How close a friend would you like to be?", "emotion": "Flirt"}
+{"utterance": "[Success] Yeah... I don't want to fight you.", "emotion": "Persuade"}
+{"utterance": "Shen! No!", "emotion": "Talk_Pleading"}
+{"utterance": "What?! You fool! While I respect your attempt to play both sides of the fence, you are playing a dangerous game.", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] Hmm... I will pay you more... but I don't like it. Take your money and let me get back to race business.", "emotion": "Persuade"}
+{"utterance": "Explanation: It's my combative nature, master. I cannot help myself. I'll make it up to you... allow me to kill something in your honor!", "emotion": "Talk_Pleading"}
+{"utterance": "Oh, for crying out -- fine. If it'll make you feel better, you call me something. Go ahead, come on, I can take it.", "emotion": "Persuade"}
+{"utterance": "That last race was incredible. You just keep looking better and better out there... and here as well.", "emotion": "Flirt"}
+{"utterance": "I keep it to myself.", "emotion": "Sleep"}
+{"utterance": "Don't be a fool, Sith. I'll destroy you.", "emotion": "Taunt"}
+{"utterance": "Sadly, Mekel, the ingenuity of your fellow student is your loss. This is going to hurt.", "emotion": "Sleep"}
+{"utterance": "It is not a lightsaber! It is nothing!", "emotion": "Talk_Pleading"}
+{"utterance": "I know, Mother. Thank you. I'm glad we talked, too.", "emotion": "Talk_Sad"}
+{"utterance": "[Success] Of course the guards would take their time getting here... I don't wish trouble.", "emotion": "Talk_Sad"}
+{"utterance": "Childish? Is that a crack about my age? You ain't much older than me, miss high and mighty! Just 'cause you're some Jedi doesn't mean you can be a prissy little...", "emotion": "Talk_Forceful"}
+{"utterance": "True, but most would say they fight only when they must... or not at all. We are the ones who know that struggle is what makes us superior.", "emotion": "Persuade"}
+{"utterance": "You're mad!", "emotion": "Talk_Forceful"}
+{"utterance": "The power of the light will always be stronger than the dark side.", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "We shall make our Masters proud by slaying you!", "emotion": "Talk_Forceful"}
+{"utterance": "It isn't easy here, you know. Not with all the Republic soldiers walking the streets while we sit and do nothing. Malak should send a fleet in and conquer this whole sector, kolto or no!", "emotion": "Talk_Forceful"}
+{"utterance": "No! You must enter the Temple alone! I will not lower the shields!", "emotion": "Talk_Forceful"}
+{"utterance": "Now you must pay the price. Here on the Star Forge the power of the dark side is at its strongest. This time you will not defeat me!", "emotion": "Talk_Forceful"}
+{"utterance": "What? You can't just rewrite our agreement whenever you feel like it! The Exchange won't stand for it!", "emotion": "Talk_Forceful"}
+{"utterance": "You are the one growing weak, Bastila. I hear the desperation in your voice!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I... I will... it is in... it is in my ship. The cache... it is in a trap door... hidden on my ship...", "emotion": "Talk_Sad"}
+{"utterance": "[Persuade] I just thought we could become friends... or maybe something more.", "emotion": "Flirt"}
+{"utterance": "Ahhh, Mekel. The time has come once again, hasn't it?", "emotion": "Sleep"}
+{"utterance": "We... we shouldn't have done that. It was wrong. The Jedi aren't allowed to fall in love.", "emotion": "Talk_Forceful"}
+{"utterance": "It shouldn't be my fault. I did everything I could... I followed my orders and did my duty. That shouldn't mean I failed them! I didn't!", "emotion": "Talk_Forceful"}
+{"utterance": "As if I would ever believe that! Defend yourself, if you dare!", "emotion": "Talk_Forceful"}
+{"utterance": "I shouldn't even be asking you this. The Jedi teachings are clear; who am I to question them? And even worse, who am I to try and make you question them?", "emotion": "Persuade"}
+{"utterance": "If you go in there, you're dead! You're all dead!", "emotion": "Talk_Forceful"}
+{"utterance": "Malak has a strong hold on Bastila now - it will be difficult for her to break free of his influence. Especially considering her long association with you.", "emotion": "Talk_Sad"}
+{"utterance": "I'm so sorry, Mother. I don't know what to say...", "emotion": "Talk_Sad"}
+{"utterance": "Don't you understand what this man has done to my life? Do you know the pain he's brought me?", "emotion": "Prone"}
+{"utterance": "Objection: Worn out?! Listen, you talentless organic meatbag... one word from my master and I will pull you apart limb from useless limb!", "emotion": "Talk_Forceful"}
+{"utterance": "Fine. You got it. Conversation over.", "emotion": "Persuade"}
+{"utterance": "What do you want from me?", "emotion": "Talk_Normal"}
+{"utterance": "Get away from my daughter Matale!", "emotion": "Talk_Forceful"}
+{"utterance": "Especially when you bring filth such as this with you. This madclaw has no place here.", "emotion": "Talk_Forceful"}
+{"utterance": "Listen, sister, I don't remember reading anywhere that it's a requirement that you remain with us after we left Taris, yet here you are.", "emotion": "Talk_Forceful"}
+{"utterance": "Damn you and your big, flapping feet!", "emotion": "Talk_Forceful"}
+{"utterance": "We have determined that you are responsible for the detonations that occurred near the Hrakert Rift. We demand to know what occurred down there!", "emotion": "Talk_Forceful"}
+{"utterance": "Mission? Is it really you? I heard Taris was destroyed! I thought you were dead! Joy of joys, my little sister is alive!", "emotion": "Talk_Pleading"}
+{"utterance": "I... I suppose you are right. Yet the path I have chosen is that of the dark side. I don't see any way I could atone for what I have done. I deserve to die.", "emotion": "Talk_Injured"}
+{"utterance": "[Success] Th-thank... y-you...", "emotion": "Salute"}
+{"utterance": "They're Republic fugitives! Attack!", "emotion": "Talk_Forceful"}
+{"utterance": "Er... now wait a minute. Easy now. *snort*", "emotion": "Talk_Sad"}
+{"utterance": "Back off, creature! I don't care to be inspected!", "emotion": "Talk_Forceful"}
+{"utterance": "Running away? Again?", "emotion": "Persuade"}
+{"utterance": "Nothing of course, my master. I was merely agreeing with you. Should we not get on with the test?", "emotion": "Persuade"}
+{"utterance": "Good job! Come talk to me!", "emotion": "Greeting"}
+{"utterance": "Why? Because I am right, that's why! I can see the truth in your eyes as well!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] No... I can't. The Selkath will get me! The firaxa will eat us! I can't! I can't!", "emotion": "Horror"}
+{"utterance": "What? No! I will not let you take me now!", "emotion": "Talk_Forceful"}
+{"utterance": "Who designed those Sith uniforms anyway? A blind Rodian with a sick sense of humor?", "emotion": "Taunt"}
+{"utterance": "I knew this was all your doing! I knew you had captured my son!", "emotion": "Talk_Forceful"}
+{"utterance": "But I give you another chance. If you really want me dead, step out and we settle this here and now!", "emotion": "Taunt"}
+{"utterance": "The dark side? Bastila? No! No! How could that happen?", "emotion": "Talk_Forceful"}
+{"utterance": "Me abd liaz! Me na awnts palkie!", "emotion": "Horror"}
+{"utterance": "No - this isn't happening! It can't be happening!", "emotion": "Horror"}
+{"utterance": "[Failure] The Sith are not that easy to fool! We would see through your petty deceptions and destroy you for the way you try to humiliate us!", "emotion": "Talk_Forceful"}
+{"utterance": "I said we were brought together for our mission: to stop Malak. I hardly think the Force would be pushing us towards a romantic involvement when the fate of the galaxy is at stake!", "emotion": "Talk_Forceful"}
+{"utterance": "Mutual attraction? I knew you were interested in me!", "emotion": "Flirt"}
+{"utterance": "We didn't do anything!! Please! Help us!!", "emotion": "Talk_Pleading"}
+{"utterance": "I just don't trust easily, and for good reasons... which are my own.", "emotion": "Talk_Sad"}
+{"utterance": "Now, my dear lady, I must see to your reward. Will, uh, earthly delights suffice? Er... I suppose not.", "emotion": "Flirt"}
+{"utterance": "No! Do not walk down this path... it can only lead to destruction! I know of what I speak!", "emotion": "Talk_Forceful"}
+{"utterance": "Neither. A true Sith never dies.", "emotion": "Sleep"}
+{"utterance": "I'll bet she does. She's decided I've finally worn out my welcome, and she's \"fixed\" my droids to do her dirty work.", "emotion": "Talk_Sad"}
+{"utterance": "And then we shall see if Revan can stand against the full fury of the Star Forge! Ha-ha-ha!", "emotion": "Talk_Forceful"}
+{"utterance": "Hmph. Regardless, I suppose rules are rules. Time for your medicine, Mekel, my boy.", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] Trying to force me to agree with you, hey? Don't make me laugh. You want my cooperation, you'll have to get it the old-fashioned way.", "emotion": "Persuade"}
+{"utterance": "Mission, forgive me!!!", "emotion": "Taunt"}
+{"utterance": "Uh, hey Carth. Can I... can I talk to you for a second?", "emotion": "Listen"}
+{"utterance": "[Whisper] Use it... I no longer... need. I give it to you... in exchange for my life... human...", "emotion": "Talk_Sad"}
+{"utterance": "Yeah, this is our elevator! If you use it, you've got to give us something!", "emotion": "Talk_Forceful"}
+{"utterance": "As you wish, Master Vandar. We shall return to the Ebon Hawk and leave you to your deliberations.", "emotion": "Bow"}
+{"utterance": "The senators work for the good of the whole galaxy, not for individual gain!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] I think it is time you forgave her. You are partly to blame for her behavior.", "emotion": "Persuade"}
+{"utterance": "[Success] [Komad squints, sensing your influence but not being able to fight it. He seems saddened by your action, as though he expected better.]", "emotion": "Persuade"}
+{"utterance": "Just leave me alone. I have to get in the academy!", "emotion": "Talk_Pleading"}
+{"utterance": "*chuckle* I had heard that such an artifact existed. Tell me, young one... did you acquire this device by yourself?", "emotion": "Talk_Laughing"}
+{"utterance": "I didn't come here to be scolded by you!", "emotion": "Talk_Forceful"}
+{"utterance": "You're a fool! When the Sith descend on Coruscant, our numbers will block out the sun itself! The galactic senators will collapse trembling in fear, and beg for mercy at Malak's feet!", "emotion": "Talk_Forceful"}
+{"utterance": "They shall not live with the Matales!", "emotion": "Talk_Forceful"}
+{"utterance": "Ha-ha! Mmm... Wife and children. Sounds like a good idea...", "emotion": "Victory"}
+{"utterance": "Moping? I'm not moping! I... okay, fine, maybe I'm moping a little, but you're very pushy, you know that?", "emotion": "Talk_Forceful"}
+{"utterance": "You are weak, Uthar, and the Force has abandoned you. We have made sure of it!", "emotion": "Taunt"}
+{"utterance": "Jolee, may I have a moment? There is something I wish to speak to you about.", "emotion": "Listen"}
+{"utterance": "You are back. Please, have you sold the plate I gave you? My children and I are counting on the credits.", "emotion": "Talk_Pleading"}
+{"utterance": "Call him off! I don't have anything to do with what happens on this planet. I'm just a glorified lab technician!", "emotion": "Talk_Pleading"}
+{"utterance": "You doubt the Dark Lord Revan? Ha ha! Most amusing.", "emotion": "Talk_Laughing"}
+{"utterance": "Good riddance. You aren't welcome here.", "emotion": "Talk_Forceful"}
+{"utterance": "I think Czerka is missing an opportunity here. The forest could teach us so much.", "emotion": "Talk_Sad"}
+{"utterance": "[She frowns and looks at you helplessly.]", "emotion": "Scratch_Head"}
+{"utterance": "[Success] Yes, I do... want to work with you. I suppose it's possible that Master Uthar could award both of us prestige. We'd be ahead of the others, for sure...", "emotion": "Persuade"}
+{"utterance": "[Success] I... but, ugh... I guess you're right. If I can't even figure this out, what hope do I have?", "emotion": "Talk_Sad"}
+{"utterance": "More of you Czerka core-rats? Is even the heart of Kashyyyk not free from your kind?", "emotion": "Talk_Forceful"}
+{"utterance": "I don't think anyone actually expected that he could be redeemed. I'm surprised you would even think of trying.", "emotion": "Talk_Normal"}
+{"utterance": "You threatened me like an animal, and made me agree to 2500 credits. I will honor that only to avoid a similar incident.", "emotion": "Talk_Forceful"}
+{"utterance": "I made inquiries and followed the reports from Telos for years, but... I stopped.", "emotion": "Talk_Sad"}
+{"utterance": "It appears, my dear, that some tests are fairer than others. I wish you luck.", "emotion": "Talk_Laughing"}
+{"utterance": "Okay you alien scum, everybody get up against the wall! This is a raid!", "emotion": "Talk_Forceful"}
+{"utterance": "It was like it was screaming inside my head...", "emotion": "Horror"}
+{"utterance": "I don't care if you're scared. Go!", "emotion": "Talk_Forceful"}
+{"utterance": "It isn't easy here, you know. Not with all the Republic soldiers walking the streets while we sit and do nothing. Malak should send a fleet in and conquer this whole sector, kolto or no!", "emotion": "Talk_Forceful"}
+{"utterance": "You have no rights here, mad-claw! This human should not have brought this taint upon our land! You must answer to Chuundar!", "emotion": "Talk_Forceful"}
+{"utterance": "Greetings. I don't think I've seen you at the academy before. Here to investigate the ruins?", "emotion": "Greeting"}
+{"utterance": "Now if you could... oh no... not you. Just my luck. Look, I don't want any trouble, just need a little help.", "emotion": "Talk_Sad"}
+{"utterance": "It's true I possess... feelings for you. But was it only an illusion brought about by our bond? And what was the cost?", "emotion": "Talk_Pleading"}
+{"utterance": "I am *sick* of listening to this. Just shut up or leave!", "emotion": "Talk_Forceful"}
+{"utterance": "Shut up! We got what we wanted! Now we go! That's how this works! Yeesh. *snort*", "emotion": "Talk_Forceful"}
+{"utterance": "You cannot touch me in here, human. No conventional weapon can penetrate this cage. Nothing can stop me from spreading my manifesto during my trial!", "emotion": "Pause"}
+{"utterance": "You overestimate yourself, whelp!", "emotion": "Talk_Forceful"}
+{"utterance": "Your pass-code is out of date! And I don't recognize you at all! We'll get to the bottom of this soon enough!", "emotion": "Talk_Forceful"}
+{"utterance": "That doesn't matter now. You can't ask for more certain closure than the whole planet being gone. Poof. Boom. Heh. Gone.", "emotion": "Talk_Sad"}
+{"utterance": "Goodbye, Juhani.", "emotion": "Talk_Sad"}
+{"utterance": "So leave. Be on your own, it's obviously what you want.", "emotion": "Talk_Forceful"}
+{"utterance": "Yeah? Let's see how tough you are, then.", "emotion": "Taunt"}
+{"utterance": "Kill him.", "emotion": "Sleep"}
+{"utterance": "More rabble with every landing. Go farm the dunes, ship-rat.", "emotion": "Talk_Forceful"}
+{"utterance": "You're the one who's driving me mad!", "emotion": "Talk_Forceful"}
+{"utterance": "Oh, and ignore the message Marlena left in there. No way do I deserve this, I swear.", "emotion": "Talk_Sad"}
+{"utterance": "I suppose... I suppose you speak the truth. I alone must accept responsibility for my fate. I wanted to be Master of the Sith and ruler of the galaxy.", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "You will be crushed with the Republic and all the fools who bow down to the Jedi Council! No one can stand against the power of the Star Forge and the Sith fleet!", "emotion": "Talk_Forceful"}
+{"utterance": "This is nothing but an excuse! You're afraid to face your feelings!", "emotion": "Talk_Forceful"}
+{"utterance": "Sand People wiped out my moisture farm and what does Czerka do? Nothing.", "emotion": "Talk_Sad"}
+{"utterance": "Oh no you don't! I'd have to shoot you down first, and I'm not kidding.", "emotion": "Talk_Laughing"}
+{"utterance": "Was there ever any doubt?", "emotion": "Talk_Laughing"}
+{"utterance": "Yes! Because Ahlan has caused nothing but trouble for us ever since we arrived on this world! His hate poisons this place.", "emotion": "Talk_Forceful"}
+{"utterance": "I'm... I'm sorry. I don't blame you, but... it was a mistake. I have to get out of here before somebody sees us together!", "emotion": "Talk_Sad"}
+{"utterance": "You came back again? Why?! I told you we're not going back to the academy, so go away!!", "emotion": "Talk_Forceful"}
+{"utterance": "What a horrible story!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] Okay, I've heard just about enough out of you. Get them!", "emotion": "Talk_Forceful"}
+{"utterance": "[She frowns and slaps her leg again.]  Abds! Is na gon-disen!", "emotion": "Inject"}
+{"utterance": "Oh... it's nothing. Sorry.", "emotion": "Talk_Sad"}
+{"utterance": "You Republics sicken me! We'll do the galaxy a favor by wiping you out!", "emotion": "Talk_Forceful"}
+{"utterance": "Maybe we chase you out of system, maybe dump you in the dunes!", "emotion": "Talk_Forceful"}
+{"utterance": "My son will do what I tell him!", "emotion": "Talk_Forceful"}
+{"utterance": "[The gizka looks at you curiously, cooing.]", "emotion": "Victory"}
+{"utterance": "Ha! Why you come back here, humee fool? You are no hunter! You gots no toughness at all!", "emotion": "Talk_Forceful"}
+{"utterance": "I can only hope you will prove up to the task.", "emotion": "Talk_Forceful"}
+{"utterance": "These ruins have long been known to us, but we believed them to be merely burial mounds. Perhaps they are more than we first suspected, if Revan and Malak found something there.", "emotion": "Talk_Normal"}
+{"utterance": "So... you know, do you? Well, it makes no difference. You have become too ambitious, Yuthura... it is time for you to die.", "emotion": "Talk_Sad"}
+{"utterance": "I'm not looking for trouble, but I'm not here to amuse you.", "emotion": "Talk_Forceful"}
+{"utterance": "Shen, no...", "emotion": "Talk_Pleading"}
+{"utterance": "There she is! Get her, men, but remember: don't kill her!", "emotion": "Talk_Forceful"}
+{"utterance": "Bacca's Blade keep Rorworr safe and Bacca's wisdom guide him home to us.", "emotion": "Talk_Sad"}
+{"utterance": "It's been a long time, Juhani.", "emotion": "Talk_Sad"}
+{"utterance": "Mother will be so angry! Ooohh...", "emotion": "Talk_Sad"}
+{"utterance": "Please, you have to help me! I... I promised this guy from the Exchange a sample of Tarisian ale! If I don't come through for him he's going to break my legs... or worse!", "emotion": "Talk_Pleading"}
+{"utterance": "Kids are like that?? Listen you... oh, I get it. Okay, you got me. You're pretty funny, Carth. For an old guy. Come on, you geezer - let's get back to what we were doing.", "emotion": "Flirt"}
+{"utterance": "I saw what you did! You gave those journals to Igear! Now we'll never find the promised land! How could you do that, you monster!", "emotion": "Talk_Forceful"}
+{"utterance": "[The girl points at things around her.] Bristag! Bristag me laesfa!", "emotion": "Greeting"}
+{"utterance": "I don't know what I could have done if you had not come. I suppose I would be dead now, like the others they captured with me.", "emotion": "Talk_Injured"}
+{"utterance": "[You scratch the little critter behind its nubs that pass for ears and it coos enthusiastically in response.]", "emotion": "Victory"}
+{"utterance": "You know you, uh... you aren't so bad to have around, you know that?", "emotion": "Flirt"}
+{"utterance": "I tried to usurp your rule, to steal the title of Sith Master from you. But now I understand... The destiny is yours, Revan. Not mine.", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "Ahh! I'll kill you! You won't get away with this!!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] We do not believe you, human! Tell us what you know or you will not leave here alive!", "emotion": "Talk_Forceful"}
+{"utterance": "Goodbye, Mission. Uh... I'm glad you're not dead.", "emotion": "Greeting"}
+{"utterance": "Statement: HK-47 is ready to serve, master.", "emotion": "Salute"}
+{"utterance": "New swoop jocks like me don't get much respect. Just takes practice, I guess.", "emotion": "Talk_Sad"}
+{"utterance": "You did do it? Why? Rorworr was good and honorable! Why did you kill him?", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] But you want to take these gizka off my hands.", "emotion": "Persuade"}
+{"utterance": "There was some fighting down by the Sandral estate, I heard. I hope it's not the Mandalorian raiders acting up again...", "emotion": "Horror"}
+{"utterance": "I've work to do. Why don't you go drown yourself in the cantina like the other diggers.", "emotion": "Talk_Forceful"}
+{"utterance": "*sigh* Alright, I will. Now you do what you have to, Bastila. You go make your father and I proud.", "emotion": "Listen"}
+{"utterance": "I'm telling you, Carth, I had nothing to do with the crash.", "emotion": "Talk_Pleading"}
+{"utterance": "[Success] You know what... I don't want to charge you for it. I want new players to take up the game.", "emotion": "Persuade"}
+{"utterance": "I was. I'm not anymore. Dak... you could...", "emotion": "Talk_Sad"}
+{"utterance": "2500 credits is as low as I can go. I swear!", "emotion": "Talk_Pleading"}
+{"utterance": "Interrupting another who is not interested in conversation is considered rude on this planet, off-worlder!", "emotion": "Talk_Forceful"}
+{"utterance": "Tell... tell Shasa... the Sith...", "emotion": "Dead"}
+{"utterance": "[Success] You know... I don't think you need to pay the fee. We'll let it go, this time.", "emotion": "Persuade"}
+{"utterance": "[The girl points to herself.] Waaba soosa Sasha!", "emotion": "Salute"}
+{"utterance": "[Force Persuade] The Sith are evil. You want to leave this place and never return.", "emotion": "Persuade"}
+{"utterance": "No!!! Whatever's out there will eat me too! Eat all of us!", "emotion": "Talk_Forceful"}
+{"utterance": "Don't get cocky, it has nothing to do with how much *you* are worth. Workers to man the ion shovels are cheap.", "emotion": "Talk_Forceful"}
+{"utterance": "I must confess that I haven't had much time to learn about this planet. Talk of Taris has seemed more important.", "emotion": "Talk_Sad"}
+{"utterance": "And yet you travel with outsiders yourself! Speak no more! Chuundar will decide if you are permitted to enter the Shadowlands.", "emotion": "Talk_Forceful"}
+{"utterance": "And even now I... feel your strength. It... does help me. Thank you, I think I can face the end, now. If you are the one to end it for me.", "emotion": "Talk_Sad"}
+{"utterance": "Sorry, like I said before I don't have any credits on me. And Greeta won't lend me any. It's like he doesn't trust me to pay him back or something.", "emotion": "Talk_Sad"}
+{"utterance": "No! You traitor!", "emotion": "Talk_Forceful"}
+{"utterance": "With the Sand People raids on top of it all, it's no wonder this planet has been abandoned before.", "emotion": "Talk_Sad"}
+{"utterance": "Hey, Big Z. Don't take this the wrong way, but lately I've noticed you're starting to look a little bit scruffy.", "emotion": "Listen"}
+{"utterance": "You can be sick of whatever you like. What I'm sick of is being kept in the dark!", "emotion": "Talk_Forceful"}
+{"utterance": "I have reclaimed the title of Darth Revan! Bow before me!", "emotion": "Talk_Forceful"}
+{"utterance": "That's really too bad about your last race. You should have won it for sure.", "emotion": "Talk_Sad"}
+{"utterance": "Brainless, lice-ridden bantha!", "emotion": "Talk_Forceful"}
+{"utterance": "Go now, and t-tempt me no more! I... will be strong!", "emotion": "Talk_Forceful"}
+{"utterance": "Those Mandalorian raiders have been milking the outlying farms dry, too... I hear Jon got hit really bad. Too bad about his daughter.", "emotion": "Flirt"}
+{"utterance": "That's why I stick around. No work, no future, but Tatooine at least has this. It's my shot... maybe.", "emotion": "Talk_Sad"}
+{"utterance": "[Force Persuade] You know you want to tell me.", "emotion": "Persuade"}
+{"utterance": "Yeah, right. And every single one of them would be speaking Mandalorain. I think we're done here. Let's just get back to the task at hand.", "emotion": "Persuade"}
+{"utterance": "No, Revan. You are the one who will die here!", "emotion": "Talk_Forceful"}
+{"utterance": "I must warn you of one thing... I don't know if I will be a help or hindrance to you here. My father was very powerful... a chieftain.", "emotion": "Talk_Sad"}
+{"utterance": "Is that such a daunting prospect? It is not as if I am asking you to perform the task alone, or as if you will get nothing out of it.", "emotion": "Persuade"}
+{"utterance": "For the Jedi!", "emotion": "Ready"}
+{"utterance": "I... oh, uh, nothing.", "emotion": "Talk_Sad"}
+{"utterance": "Do not be insolent, human. I asked you a direct question, and I will not be trifled with. Now... where did you get this medallion?", "emotion": "Talk_Forceful"}
+{"utterance": "Please, will you help me? I have nothing. Nothing left.", "emotion": "Talk_Pleading"}
+{"utterance": "Even when serving justice, you outsiders find a way to profit. Leave me alone, mercenary.", "emotion": "Talk_Forceful"}
+{"utterance": "And I hope he can explain this... I really do.", "emotion": "Talk_Sad"}
+{"utterance": "How about you tell me what I want to know, and the Manaan authorities don't find your body washing up on shore?", "emotion": "Talk_Forceful"}
+{"utterance": "No. No, that was a good memory. There are just... much worse ones that followed.", "emotion": "Talk_Sad"}
+{"utterance": "My droid... destroyed? No, no! This cannot be happening! I cannot bear to live without him!", "emotion": "Talk_Sad"}
+{"utterance": "I just work here in the lab. I... I don't have anything to do with the taking of slaves.", "emotion": "Talk_Sad"}
+{"utterance": "Well, at any rate, I wish you well. May... may the Force be with you.", "emotion": "Salute"}
+{"utterance": "This isn't over, Malak!", "emotion": "Ready"}
+{"utterance": "RRRRAAAAAAARRRRRGGGG!!!!", "emotion": "Taunt"}
+{"utterance": "Now keep your head, Matton. It was just business.", "emotion": "Talk_Pleading"}
+{"utterance": "Perhaps his feelings have mellowed, but if my brother had his ear all this time... I may be very unwelcome.", "emotion": "Talk_Sad"}
+{"utterance": "Bastila's escape pod is away - you're the last surviving crew member of the Endar Spire! I can't wait for you much longer; you have to get to the escape pods!", "emotion": "Talk_Forceful"}
+{"utterance": "You may have defeated the pathetic bounty hunter my Master sent after you, but you are no match for me! I have studied at the foot of the Dark Lord himself!", "emotion": "Talk_Normal"}
+{"utterance": "Well, that... that was the day I met my wife.", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] There is nothing in my heart but the blackness of the dark side! I am sick of your preaching, Revan!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] Perhaps you don't need to pay the docking fee. Any services you need will more than make up for it.", "emotion": "Persuade"}
+{"utterance": "Very cute. If you got any cuter, you'd pass for a Gamorrean's sister.", "emotion": "Flirt"}
+{"utterance": "Could I have returned to the light, as you did? [cough] If you had not led me down the dark path in the first place, what destiny would I have found?", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "Stop bothering me with your questions! I can barely hear myself think.", "emotion": "Talk_Forceful"}
+{"utterance": "What? Why didn't you try to help them?!", "emotion": "Talk_Pleading"}
+{"utterance": "Look... I don't want to hear that name ever again. Ever. You understanding me? Now get lost.", "emotion": "Talk_Forceful"}
+{"utterance": "It is your fault, Ahlan! You were always too violent for your own good!", "emotion": "Talk_Forceful"}
+{"utterance": "Bib - wait! Let me try again, Bib. I can get another partner! A good partner. Bib - wait up.", "emotion": "Talk_Pleading"}
+{"utterance": "Greetings, student. I see you have the medallion that marks you as one of the chosen.", "emotion": "Salute"}
+{"utterance": "But at what cost? In protecting you, I fell to the dark side myself. Is that the price of a Jedi's redemption? Must another of the Order fall to save me?", "emotion": "Talk_Sad"}
+{"utterance": "Damn it, woman, if you keep hounding me I'm going to put you over my knee and teach you a lesson!", "emotion": "Flirt"}
+{"utterance": "H... help me! Please! I can... I can feel it inside my skin! Something growing... like some kind of hideous disease!", "emotion": "Talk_Injured"}
+{"utterance": "So... I'm sorry. Will you accept my apology?", "emotion": "Talk_Sad"}
+{"utterance": "You've picked the wrong place to say that. We'll score big points for bringing in your body, I'm sure!", "emotion": "Taunt"}
+{"utterance": "We should kill her now! Before anyone knows!", "emotion": "Taunt"}
+{"utterance": "Unghhh! Stop! I... I yield!", "emotion": "Talk_Pleading"}
+{"utterance": "I know. Don't worry about it. I just... must not be making much sense.", "emotion": "Talk_Sad"}
+{"utterance": "I have not been here long, but I can already see I will not be as welcome here as I had hoped.", "emotion": "Talk_Sad"}
+{"utterance": "How awful. Big Z always said how important honor was to his people. It's everything.", "emotion": "Talk_Sad"}
+{"utterance": "[Success] What... we... we gotta run! Gotta run real fast! *squee!*", "emotion": "Persuade"}
+{"utterance": "[Failure] ...n-no, that is... n-not...", "emotion": "Horror"}
+{"utterance": "Yeah, well... I see what you mean. I've never... I mean, I've never been on that side of the fence before. It makes you think.", "emotion": "Talk_Sad"}
+{"utterance": "There you go again!", "emotion": "Talk_Forceful"}
+{"utterance": "I see your point. I'll leave his shop like his corpse. I'll take what I want, buy passage on a ship, and never look back except to spit.", "emotion": "Talk_Forceful"}
+{"utterance": "Speak with Chorrawl if you must speak at all. He knows your jagged language best.", "emotion": "Talk_Forceful"}
+{"utterance": "Ahhh... what is this you bring me, Shaardan?", "emotion": "Listen"}
+{"utterance": "The Sith HAVE been taking them!", "emotion": "Talk_Forceful"}
+{"utterance": "And... and you said you loved me. This may not be the best time to say it, but...", "emotion": "Talk_Injured"}
+{"utterance": "[Failure] People will think I was a fool to sell at such a price! I will not!", "emotion": "Talk_Forceful"}
+{"utterance": "I'll trust you, Bastila but as soon as we're off this ship I expect some answers!", "emotion": "Talk_Normal"}
+{"utterance": "I'm not waiting around for you to snap. I'm no fighter. I just race.", "emotion": "Talk_Sad"}
+{"utterance": "Enough of these lies!", "emotion": "Taunt"}
+{"utterance": "No. No, I can't. I... I had no idea... they lied to me.", "emotion": "Talk_Sad"}
+{"utterance": "[Force Persuade] You swore a life debt to me, Zaalbar! You'll do as I say!", "emotion": "Talk_Forceful"}
+{"utterance": "Can't get any buyers for Tatooine ore anywhere. Word is getting out.", "emotion": "Talk_Sad"}
+{"utterance": "Yes! Together we can rule the galaxy!", "emotion": "Taunt"}
+{"utterance": "Return? But... I betrayed my old masters. They would never let me return to the light side. It is too late... too late...", "emotion": "Talk_Sad"}
+{"utterance": "Is that your idea of an insult? Come on, sister, take your best shot.", "emotion": "Taunt"}
+{"utterance": "Never thought I'd see moisture farming as a better living than mining.", "emotion": "Talk_Sad"}
+{"utterance": "I tried to get the help of one other, but you saw him die in the lair. He lacked experience and, more importantly, patience.", "emotion": "Talk_Sad"}
+{"utterance": "You can just keep waiting, Griff. We'll get you out of there when it suits us.", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] Heh! That's the oldest joke in the book.", "emotion": "Taunt"}
+{"utterance": "No! No! The firaxa will get us! No! The Selkath are coming! No!", "emotion": "Horror"}
+{"utterance": "What? But I passed your test!", "emotion": "Talk_Forceful"}
+{"utterance": "I've... I've never spoken to an outsider. I mean, Chuundar makes us learn to understand you, but I've never been this close to one of you.", "emotion": "Talk_Sad"}
+{"utterance": "Jolee would not swear loyalty to the new ruler of the Sith. He died for his foolishness. Now swear loyalty to Darth Revan, or face your own death!", "emotion": "Talk_Forceful"}
+{"utterance": "700 credits! Oh, thank you. It is more than generous of you. I don't know what to say. I just don't.", "emotion": "Talk_Pleading"}
+{"utterance": "Well, you've found it! If you've done anything to Master Uthar, you're going to pay for it!", "emotion": "Talk_Forceful"}
+{"utterance": "Just a little kiss. How about it?", "emotion": "Flirt"}
+{"utterance": "Hey - this street is for Sith only. You got to pay a 20 credit toll to walk down this street.", "emotion": "Talk_Forceful"}
+{"utterance": "But we don't know how else the chemical reacts! We only tried it in a controlled environment. In the open ocean, who knows what it could do... it could even affect the kolto.", "emotion": "Talk_Pleading"}
+{"utterance": "You bounty hunter? Zuulan not scared of you, human! You die now!", "emotion": "Talk_Forceful"}
+{"utterance": "They didn't make it.", "emotion": "Talk_Sad"}
+{"utterance": "Ah, well... there's the truth and then there's the *truth*, you know? I always meant to go back to Taris, sis. Just as soon as I had the credits to pay off my debts. But credits have been hard to come by.", "emotion": "Talk_Sad"}
+{"utterance": "There was a patrol here just yesterday, and they found nothing! Why do you Sith keep bothering us?", "emotion": "Talk_Pleading"}
+{"utterance": "Stop saying meatbag, already!", "emotion": "Talk_Forceful"}
+{"utterance": "You will need to come up with a better excuse than that, off-worlder!", "emotion": "Talk_Forceful"}
+{"utterance": "Human, if you speak the truth I am forever in your debt! And yet, my joy is tempered by the knowledge that the Sith still walk freely about Manaan.", "emotion": "Talk_Pleading"}
+{"utterance": "Yes! Together we can rule the galaxy!", "emotion": "Taunt"}
+{"utterance": "It is obvious that they tried to stop you and that you initiated hostilities!", "emotion": "Talk_Forceful"}
+{"utterance": "I've never seen a woman come into town and take charge like you did out there. You are scary. Wonderfully scary.", "emotion": "Flirt"}
+{"utterance": "You think so? I could probably get the same kind of attention from a blaster rifle.", "emotion": "Flirt"}
+{"utterance": "You are brave... and some would say foolish. But you are also right. The dark side has not wholly consumed me. I cannot raise my blade against you.", "emotion": "Talk_Injured"}
+{"utterance": "I'll hold Malak off. You two get out of here! Find the Star Forge!", "emotion": "Ready"}
+{"utterance": "Oh, I thought... No, this is good. I'm glad you told me. This makes everything much easier.", "emotion": "Talk_Sad"}
+{"utterance": "What are you doing here? Have you come to laugh at us? Come to gloat about how many of us you take? Can you even understand me?", "emotion": "Talk_Forceful"}
+{"utterance": "That is the whole point! Personally, I think it's wonderful fun... those fools actually think that if they stand there long enough, I'll let them become a Sith.", "emotion": "Talk_Laughing"}
+{"utterance": "Such pride! Such arrogance! Ach. This one is already on the path to the dark side!", "emotion": "Talk_Forceful"}
+{"utterance": "[Whisper] It is in... it is in my ship. The cache... it is in a trap door... hidden on my ship.", "emotion": "Talk_Sad"}
+{"utterance": "When you return, make sure that you have all that you will need... for you will face your test alone. Go, and may the Force serve you well.", "emotion": "Bow"}
+{"utterance": "I'll deactivate the restraining bolt on the droid when you tell it he's sold. After that, get out. Even if it lied about speaking a Sand People dialect, I'm still getting a horrible deal.", "emotion": "Talk_Forceful"}
+{"utterance": "A pity. Here I hadn't even decided, yet.", "emotion": "Talk_Sad"}
+{"utterance": "Another vision. The Force is guiding us, helping us retrace the steps of Malak and his old Master. Leading us ever closer to the Star Forge.", "emotion": "Talk_Normal"}
+{"utterance": "I don't feel like answering. I wouldn't be much help to you anyway. I just race. Don't know about anything else.", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] Hah! L-like... like I would believe that! You... are just trying to make me leave! I will get in, I will!", "emotion": "Talk_Forceful"}
+{"utterance": "I... no, I didn't mean that. Please... maybe it would be better if we continued with the mission. I want to... take my mind off this.", "emotion": "Talk_Sad"}
+{"utterance": "There you are Shen!", "emotion": "Talk_Forceful"}
+{"utterance": "I haven't got a clue where to start. She knew I wouldn't. Please, repair them for me if you can.", "emotion": "Talk_Pleading"}
+{"utterance": "Oh thank you. I don't have anywhere else to turn. If you are down-and-out on Tatooine, you're on your own.", "emotion": "Talk_Pleading"}
+{"utterance": "We did it, Vandar - the Sith are routed and the Star Forge destroyed!", "emotion": "Use_Computer_LP"}
+{"utterance": "...ahhh...", "emotion": "Pause"}
+{"utterance": "I've got orders to kill trouble makers. Keep walking.", "emotion": "Talk_Forceful"}
+{"utterance": "No, no, no. Don't do it!", "emotion": "Talk_Forceful"}
+{"utterance": "Hmph! You'll change your tune the first time your plumbing breaks down and raw sewage floods your apartment. Then you'll be beggin' for Kadir to come help you out!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I suppose I do. That's pretty smart to appeal to what I think my safety is worth. Here.", "emotion": "Talk_Sad"}
+{"utterance": "How did you get in here? Wait - I recognize you!", "emotion": "Talk_Forceful"}
+{"utterance": "You will go on to defeat Malak, of this I have little doubt. You will have gone from being the Sith Lord, himself, to the savior of our galaxy.", "emotion": "Talk_Injured"}
+{"utterance": "I refuse to believe that! We'll...we'll stop you if we have to, all of us. We'll save you from yourselves!", "emotion": "Talk_Forceful"}
+{"utterance": "Not at all. They found me innocent.", "emotion": "Talk_Sad"}
+{"utterance": "Not everyone is willing to throw their life away for the Republic, Carth!", "emotion": "Taunt"}
+{"utterance": "Take your time, Carth. Make him suffer for what he's done to you!", "emotion": "Prone"}
+{"utterance": "Hah! I'd like to see you try!", "emotion": "Flirt"}
+{"utterance": "Back off, Republic dog! You couldn't hope to compare to a real woman!", "emotion": "Talk_Forceful"}
+{"utterance": "I could stomach maybe a pair, or a team of hunters, but some now use battle droids! Where is the sport in that?", "emotion": "Talk_Forceful"}
+{"utterance": "Please Shen, it doesn't have to end this way!", "emotion": "Talk_Pleading"}
+{"utterance": "Nothing but garbage ore, good for nothing. You ever try to sell someone garbage? My name is mud in three systems now.", "emotion": "Talk_Sad"}
+{"utterance": "Gurke said no more talking. You got sand in your ears? No more talking.", "emotion": "Talk_Forceful"}
+{"utterance": "Run, Kono! He's one of them!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] You should quit on him right now. Leave and find another job.", "emotion": "Persuade"}
+{"utterance": "The Shadowlands are too good for them! We'll kill them all!", "emotion": "Victory"}
+{"utterance": "[Failure] ...no, no! What are you doing, master! That is my motor core! Stop! Ahhhh!", "emotion": "Horror"}
+{"utterance": "Not everyone is as foolish as you are, Carth!", "emotion": "Taunt"}
+{"utterance": "If the Force wants us to be together, why do you keep resisting my undeniable charms?", "emotion": "Persuade"}
+{"utterance": "What was that about? I don't like being used for your amusement.", "emotion": "Talk_Pleading"}
+{"utterance": "N-n-no! I... will... not!", "emotion": "Talk_Sad"}
+{"utterance": "So the spineless worm actually made it through the tomb? I'm impressed.", "emotion": "Taunt"}
+{"utterance": "I want to learn to use the Force, not listen to your philosophical babbling!", "emotion": "Talk_Forceful"}
+{"utterance": "You are a fool. Revan has already made her choice, and there is no turning back!", "emotion": "Talk_Forceful"}
+{"utterance": "So you killed Darth Malak. Somehow I... I always knew you would.", "emotion": "Talk_Sad"}
+{"utterance": "I guess I'll just have to kill you all, then.", "emotion": "Talk_Forceful"}
+{"utterance": "His daughter was killed by Mandalorians when their farm was raided. He's been taking it pretty hard. If you want to ask him about it, he's just north of here. It's not my place to say anything else.", "emotion": "Flirt"}
+{"utterance": "I don't like being manipulated!", "emotion": "Talk_Forceful"}
+{"utterance": "Some of the other soldiers like to go and bet on the swoops on their days off, but this planet is bad enough without mingling with the locals.", "emotion": "Drunk"}
+{"utterance": "I'm sorry, I don't know. It has been so long since I left. I only know the way things were, and many things may have changed.", "emotion": "Talk_Sad"}
+{"utterance": "Yes, I suppose that wasn't too bad. Alright then, my friend... you've done as you were asked. Perhaps we will meet again.", "emotion": "Salute"}
+{"utterance": "Forget it, Griff. Don't you understand? It's too late - you're dead to me now. I don't want anything more to do with you. Ever.", "emotion": "Talk_Forceful"}
+{"utterance": "N-now hold on, we don't want any trouble... please?", "emotion": "Talk_Pleading"}
+{"utterance": "I promise you will be very interested in what Calo has to tell you about Bastila's other companions, Lord Malak.", "emotion": "Talk_Normal"}
+{"utterance": "I do. I will take his shame with me. The Rorworr in their memory is a far better one than the Rorworr I killed.", "emotion": "Talk_Sad"}
+{"utterance": "I do not know what to do. Now that I have caused such suffering to my Master and those around me...", "emotion": "Talk_Sad"}
+{"utterance": "You old fool! Your traditions are nothing to me - I am the wave of the future! If I want to withdraw the prize and sell this woman on the slave market myself, nobody can stop me!", "emotion": "Pause"}
+{"utterance": "And now Father is dead. That... leaves a hurt inside, you just can't imagine. I haven't seen him in so long...", "emotion": "Talk_Sad"}
+{"utterance": "Action cancelled.", "emotion": "Use_Computer"}
+{"utterance": "I know. It's too late to turn back... but you can end this here. There's still time for one final act of redemption.", "emotion": "Talk_Sad"}
+{"utterance": "Greetings and welcome to Czerka Corporation.", "emotion": "Greeting"}
+{"utterance": "Turn my own droid against me - very clever. But it take more than rogue assault droid and you to take down Vorn Daasraad!", "emotion": "Talk_Forceful"}
+{"utterance": "Fool! It is a trick question! A true Sith *never* dies!! Ha ha ha ha ha!!", "emotion": "Talk_Laughing"}
+{"utterance": "Fine. I'll deal with *you* later.", "emotion": "Talk_Forceful"}
+{"utterance": "But I should have. Sometimes I convince myself otherwise... but it's no use. She had fallen to the dark side when she raised her saber against me.", "emotion": "Talk_Sad"}
+{"utterance": "At last, my search is over! I was beginning to fear someone else had killed you and deprived me of the pleasure.", "emotion": "Talk_Normal"}
+{"utterance": "[Failure] You think compliments will convince me I didn't kill my master? Leave me to my agony!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I will lower my price for you. You are deserving. 2500 credits. No lower.", "emotion": "Persuade"}
+{"utterance": "Wh... what? No! We serve the Republic! You're no better than Malak! We'll never swear allegiance to one who serves the dark side!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] You don't need to pay the fee. It's just a formality. I'll let you use the track for practice and set up your first official race right away.", "emotion": "Persuade"}
+{"utterance": "Don't listen to him, master! Let me strike him down! Seize your victory!!", "emotion": "Talk_Forceful"}
+{"utterance": "You underestimate the Republic's resolve! We'll die before we surrender Coruscant!", "emotion": "Talk_Forceful"}
+{"utterance": "I did what I had to to wipe your kind of evil from the galaxy!", "emotion": "Talk_Forceful"}
+{"utterance": "Many are talking of Rorworr's disappearance. It is hardest on the young.", "emotion": "Talk_Sad"}
+{"utterance": "It's sad... one of our racers was on Taris. Ever race there? Probably not, I'd have heard of you.", "emotion": "Talk_Sad"}
+{"utterance": "You should have known you could never defeat me, Malak!", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "Your laws are nothing to me!", "emotion": "Talk_Forceful"}
+{"utterance": "I'm not here to satisfy your curiosity! No staring at the old man, that's what the sign says, dammit!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I suppose I do like you. Here's a few creds. Was there something else?", "emotion": "Persuade"}
+{"utterance": "Mekel. H-he's the Sith... the one watching us from over there! He... h-he said this was how we would prove our worth...", "emotion": "Talk_Sad"}
+{"utterance": "No! Don't!", "emotion": "Talk_Pleading"}
+{"utterance": "Expletive: Damn it, master, I am an assassination droid... not a dictionary!", "emotion": "Talk_Forceful"}
+{"utterance": "What was that? That was easily the stupidest thing I've ever seen!", "emotion": "Talk_Laughing"}
+{"utterance": "[Failure] It is! It is!", "emotion": "Talk_Forceful"}
+{"utterance": "*I'm* frustrating? Look who's talking!", "emotion": "Talk_Forceful"}
+{"utterance": "I'm old, damn it! I'm allowed to be enigmatic when I want to be, and don't you go telling me otherwise.", "emotion": "Talk_Forceful"}
+{"utterance": "Oh, I think not! Even flawed like it is, it should be ideal for this situation.", "emotion": "Talk_Forceful"}
+{"utterance": "You're nothing but a cold blooded killer!", "emotion": "Talk_Forceful"}
+{"utterance": "Ahh!! I am no fighter! Please, I need this shop to make my living. I can't just give the droid away.", "emotion": "Talk_Pleading"}
+{"utterance": "Do not mock us, Jedi!", "emotion": "Talk_Forceful"}
+{"utterance": "I... I...", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] No! No I won't! What are you doing? Please, don't do this to me!", "emotion": "Talk_Pleading"}
+{"utterance": "And I sure as hell don't need this. Let's just drop it and get back to what we were doing.", "emotion": "Persuade"}
+{"utterance": "Please, don't say it like that. You make it sound like I was using you! Don't you realize how difficult this was for me?", "emotion": "Talk_Sad"}
+{"utterance": "I will learn your Jedi powers and defeat Malak!", "emotion": "Talk_Forceful"}
+{"utterance": "You... you are Darth Revan, Lord ... [cough] Lord of the Sith. And I... I am nothing.", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "Die!", "emotion": "Ready"}
+{"utterance": "Well let's have a look at you. Hmm. Biped. More or less symmetrical. Far less hair than the last one. Opposable digits. Mostly water, hey? I suppose you'll have to do.", "emotion": "Persuade"}
+{"utterance": "Calo Nord is dead, Lord Malak. He has failed in his mission. Forgive me.", "emotion": "Worship"}
+{"utterance": "Why did the Sith destroy Taris?", "emotion": "Talk_Forceful"}
+{"utterance": "I can't talk for Big Z, but believe me, he should be with us. He's got... unfinished business here.", "emotion": "Talk_Sad"}
+{"utterance": "[Persuade] Maybe I'll just gut you like a Selkath preparing an Orchana ray for lunch.", "emotion": "Talk_Forceful"}
+{"utterance": "No! I won't let you hurt Mission!", "emotion": "Taunt"}
+{"utterance": "Yeah, you can just stay here!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] No... I... do not think so. I have the eternity... I deserved. I made my choice long ago.", "emotion": "Talk_Sad"}
+{"utterance": "You there! Padawan! Why are you not wearing the customary robes of the Jedi? Do you mock the honored traditions of our Order?", "emotion": "Talk_Forceful"}
+{"utterance": "You... you're hitting me up for credits? I don't believe this! Lena was right about you, Griff! We should have just left you to the Sand People! Don't talk to me anymore - ever!", "emotion": "Talk_Forceful"}
+{"utterance": "You've seen him lose night after night after night. But this time, he's after fresh meat. In this corner I give you Deadeye Duncan!", "emotion": "Pause"}
+{"utterance": "[Success] Working here when I was trapped was hell enough. Staying here now is just foolish. I don't want to be seen as weak.", "emotion": "Persuade"}
+{"utterance": "Don't get smart-mouthed with me, young man. You're not too old to put over my knee.", "emotion": "Talk_Forceful"}
+{"utterance": "She knew I wouldn't know how to fix them. Could you try to do some repairs? They don't care if you move. It's just me who's stuck.", "emotion": "Talk_Pleading"}
+{"utterance": "You... you have saved me from the savages and their war beasts...", "emotion": "Talk_Injured"}
+{"utterance": "Go to your destiny, then, my Dark Lord. I shall say nothing of what you have done here. Should you prove victorious and wish to return, then I and all Sith shall be your servants.", "emotion": "Bow"}
+{"utterance": "What, are you a beggar? Fine, if it will get you to leave, take a few cred's, but don't expect another handout.", "emotion": "Talk_Forceful"}
+{"utterance": "Bastila, did you ever think about joining all the Jedi who were running off to follow Revan and Malak when they went to fight the Mandalorians?", "emotion": "Listen"}
+{"utterance": "I have the holocron, Mother. I'm just not sure I want to give it to you.", "emotion": "Talk_Sad"}
+{"utterance": "A... a kinrath pup?! It most certainly is not!", "emotion": "Talk_Forceful"}
+{"utterance": "But I don't... I mean, I can't... Malak will...", "emotion": "Talk_Sad"}
+{"utterance": "[The girl obviously doesn't understand.]", "emotion": "Scratch_Head"}
+{"utterance": "Well fine, I'll... stay pretty much right here I guess. You can just get lost. I'll... I'll...", "emotion": "Talk_Forceful"}
+{"utterance": "You may have defeated the pathetic bounty hunter my Master sent after you, but you are no match for me! I have studied at the foot of the Dark Lord himself!", "emotion": "Talk_Normal"}
+{"utterance": "The shame of Rorworr's actions will haunt us. Justice was properly merciful with his killer.", "emotion": "Talk_Sad"}
+{"utterance": "The Jedi Council has failed, Carth - Darth Revan has been reborn! Together we will destroy Malak and seize control of his fleet, then use it to crush the Republic!", "emotion": "Talk_Forceful"}
+{"utterance": "It was... it was a moment of weakness. When I kissed you... we shouldn't have... no, I'm sorry.", "emotion": "Talk_Sad"}
+{"utterance": "You are fortunate the Selkath neutrality laws stay my hand, else you would pay for those comments with your tongue, Mandalorian!", "emotion": "Talk_Forceful"}
+{"utterance": "Please listen to her, father!", "emotion": "Talk_Pleading"}
+{"utterance": "[Success] If... if you speak the truth... then use the console to put me... in a catatonic state...", "emotion": "Talk_Pleading"}
+{"utterance": "[Force Persuade] But we are not your enemies... we are your friends. Tell us what you know.", "emotion": "Persuade"}
+{"utterance": "Seems like every other person I meet is complaining about something. Well, it's not going to get better, so leave me alone.", "emotion": "Talk_Forceful"}
+{"utterance": "Killing him won't ease the pain, Carth. Do not become what you despise.", "emotion": "Prone"}
+{"utterance": "Objection: But Master! Am I not far too useful to be thrown aside in such a casual manner? Can I be faulted for my perfect artificial construction?", "emotion": "Talk_Pleading"}
+{"utterance": "Then feel my power! You shall... die here, with me!!", "emotion": "Talk_Forceful"}
+{"utterance": "Are you mad? Don't provoke them!", "emotion": "Talk_Forceful"}
+{"utterance": "What are you doing here?! Did the Jedi Council send you? I swear I will expose you if they have!", "emotion": "Talk_Forceful"}
+{"utterance": "The unit has been a little uncooperative. They get that way when they go too long without a memory wipe.", "emotion": "Talk_Sad"}
+{"utterance": "Please, Zaalbar - don't do this! Please! NO!!!", "emotion": "Talk_Pleading"}
+{"utterance": "Vulkars - to me! Kill this woman! Kill the swoop rider! Kill them all!", "emotion": "Talk_Forceful"}
+{"utterance": "Chuundar deserved death. He made us fearful and weak.", "emotion": "Talk_Sad"}
+{"utterance": "What? Please, tell me you are kidding. I can't get any lower than this, and you would take advantage?", "emotion": "Talk_Pleading"}
+{"utterance": "I'm not trying to provoke you or imply that you're somehow responsible for the Jedi Council... but give me a hand, here! There has to be a reason!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I... I will give you the plate now... here, take it. What... what did you make me do?", "emotion": "Persuade"}
+{"utterance": "You'll go far away, to a place that doesn't hold any memories at all. And there you'll be happy just to forget and be forgotten.", "emotion": "Talk_Sad"}
+{"utterance": "Oh, just say the word!", "emotion": "Taunt"}
+{"utterance": "The crystals are sacred! No self-respecting Jedi would ever do such a thing!", "emotion": "Talk_Forceful"}
+{"utterance": "Ah, yes, I see. I will do as Master Uthar requests, of course. Thank you for bringing this to me.", "emotion": "Bow"}
+{"utterance": "You shouldn't have fixed the droids first, then. Rally on my target, boys!", "emotion": "Talk_Forceful"}
+{"utterance": "Juhani was a... a dear companion to me for many years. We spent many nights together alone under the stars.", "emotion": "Talk_Sad"}
+{"utterance": "The honor of Kashyyyk is tainted. Only slaver blood will make things right.", "emotion": "Talk_Forceful"}
+{"utterance": "Pretty snappy with the orders, are we? Okay, you got it... sir.", "emotion": "Salute"}
+{"utterance": "Bah, you wouldn't understand. You're like everyone else, complaining about how Czerka isn't feeding and clothing you like it should.", "emotion": "Talk_Forceful"}
+{"utterance": "As for whether or not he'll be my son again... I don't know. He's so full of anger and hate... I wasn't expecting him to be like this.", "emotion": "Talk_Sad"}
+{"utterance": "Please, have pity on us. We have nothing. All we ask is a few credits to make our lives easier.", "emotion": "Talk_Pleading"}
+{"utterance": "They're dead! All dead! They swarmed out and over us. There was no way we could stop them.", "emotion": "Horror"}
+{"utterance": "The poison! You will pay for this! We will destroy you!!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] I don't need to pay the fee.", "emotion": "Persuade"}
+{"utterance": "I... I am beaten. Take my head, Czerka filth. You won't get another chance. So swears Freyyr of Kashyyyk.", "emotion": "Talk_Sad"}
+{"utterance": "Err... ignore that, master. Obeying original command. Signing off.", "emotion": "Salute"}
+{"utterance": "We Sith are interested in lots of stuff. You'd be smart to keep your nose out of Sith business.", "emotion": "Talk_Forceful"}
+{"utterance": "The city is in ruins.", "emotion": "Use_Computer_LP"}
+{"utterance": "It was my responsibility to watch over you, to make sure you did not slip back into your evil ways. I was supposed to protect you from the dark side.", "emotion": "Talk_Injured"}
+{"utterance": "[Success] N-no! Not after all this time! I... oh, this is terrible! I'll have to... go home...", "emotion": "Talk_Sad"}
+{"utterance": "No, I did fail him. And so did you. I wish I'd never met you.", "emotion": "Talk_Sad"}
+{"utterance": "Oh, but I insist. I'm not about to let a chance to impress Master Uthar pass me by.", "emotion": "Taunt"}
+{"utterance": "Excellent work, my young Sith. Your enemy lies dead at your feet and you are victorious... the final test is complete.", "emotion": "Bow"}
+{"utterance": "Know your place, Sith!", "emotion": "Talk_Forceful"}
+{"utterance": "Back off, Republic scum! A man like you couldn't hope to satisfy a Sith woman!", "emotion": "Talk_Forceful"}
+{"utterance": "Chances are that by the time I finished telling you about it all, you would have found out for yourself. So there's no reason for me to start blathering on.", "emotion": "Persuade"}
+{"utterance": "You! You're the one! You beat Zoriis Bafka's time? I have to get your autoprint.", "emotion": "Greeting"}
+{"utterance": "I am *not* going to betray you! I am *not* Saul!", "emotion": "Talk_Forceful"}
+{"utterance": "What do you want, outsider? I won't let you follow us on our hunt. Chorrawl is not here for your amusement.", "emotion": "Talk_Forceful"}
+{"utterance": "This cell is too drafty. My old bones could catch a chill in here. We don't want that. You better let me out.", "emotion": "Persuade"}
+{"utterance": "I hear that the Sith torture Jedi prisoners until they give in to the dark side. I hope that never happens to me!", "emotion": "Horror"}
+{"utterance": "Leave... leave me be! I won't listen to your... manipulations. I... I *will* make it into the academy!", "emotion": "Talk_Forceful"}
+{"utterance": "But I *should* be able to remember her face. It's frustrating! I... feel like I'm losing her.", "emotion": "Talk_Pleading"}
+{"utterance": "These Sand People are vicious. They attacked without any reason.", "emotion": "Talk_Sad"}
+{"utterance": "Not enough to save your sorry self.", "emotion": "Taunt"}
+{"utterance": "But... what if Master Uthar is really dead? How can we hope to stand up against someone who could kill him?", "emotion": "Scratch_Head"}
+{"utterance": "I like having a champion around, but you're probably destined for the circuit, once it's back up and running.", "emotion": "Flirt"}
+{"utterance": "[Failure] No! I won't let you do this!", "emotion": "Talk_Forceful"}
+{"utterance": "I've always been driven off, and if I examine the site later, there is nothing left.", "emotion": "Talk_Sad"}
+{"utterance": "Watch your tone, or you'll be looking for some replacement limbs!", "emotion": "Talk_Forceful"}
+{"utterance": "Gamorrean pig-man!", "emotion": "Talk_Forceful"}
+{"utterance": "And I let her go. To my shame, she went on to kill many Jedi during the war until she, herself, was slain in the final battle.", "emotion": "Talk_Sad"}
+{"utterance": "Kashyyyk will rise to repel the slaver threat. Freyyr will see to it.", "emotion": "Talk_Forceful"}
+{"utterance": "I surrender! I surrender! Please, don't kill me. I'm not like these others. I'm not like Brejik and his new Vulkars!", "emotion": "Worship"}
+{"utterance": "It doesn't matter, dear. Don't you worry about me.", "emotion": "Talk_Sad"}
+{"utterance": "Hmph! Save it Griff - I'm still not talking to you! I want no part of whatever you're involved in!", "emotion": "Talk_Forceful"}
+{"utterance": "What... what do you mean? My husband was sure it was worth 500 credits. He was so proud...", "emotion": "Talk_Sad"}
+{"utterance": "I can't help but feel this is partly my fault.", "emotion": "Talk_Sad"}
+{"utterance": "Come on, girlie. Into the cell. Let's go, I haven't got all day to waste on you. I need to get back to my post.", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] There is nothing in my heart but the blackness of the dark side! I am sick of your preaching, Revan!", "emotion": "Talk_Forceful"}
+{"utterance": "Please, help us if you can! They are as much a danger to you as to us! It is only a matter of time before they come here...", "emotion": "Talk_Pleading"}
+{"utterance": "Yes, that would be for the best. You don't need me to defeat Malak, anyway. Now I understand that a true Jedi is a match for any Sith. Even the Dark Lord himself.", "emotion": "Talk_Injured"}
+{"utterance": "[Success] Of course, guards can't be everywhere. I'd prefer to avoid a fight, I think. I'll fix this.", "emotion": "Persuade"}
+{"utterance": "Death to all slavers! Kashyyyk will be free!", "emotion": "Victory"}
+{"utterance": "You disgust me. Your scent poisons the air. Your feet foul the ground. Go away, outsider. Go away.", "emotion": "Talk_Forceful"}
+{"utterance": "I'll tell you this much... I am *not* going to wait around until I'm betrayed again!", "emotion": "Talk_Forceful"}
+{"utterance": "What the...! What did you do? Oh no...", "emotion": "Horror"}
+{"utterance": "[Success] I just... don't feel I belong here. I thought maybe I did at first, but now I... I don't know. I have so many doubts.", "emotion": "Persuade"}
+{"utterance": "A paltry appeasement! I say we should kill this human for the impudence he has shown us, and the destruction of our station!", "emotion": "Talk_Forceful"}
+{"utterance": "I am always ready!", "emotion": "Talk_Forceful"}
+{"utterance": "Who are you to question my place? You follow Chuundar into the arms of outsiders.", "emotion": "Talk_Forceful"}
+{"utterance": "What? Then you pay whatever you got! Yeah!", "emotion": "Talk_Forceful"}
+{"utterance": "Freyyr is returned to us! The madness of Chuundar will be undone. It is a great day, and I'm told it is becasue of you, <FullName>.", "emotion": "Victory"}
+{"utterance": "Have you no heart? Have you no compassion?", "emotion": "Talk_Pleading"}
+{"utterance": "There is no place for fools amongst the Sith. Begone.", "emotion": "Horror"}
+{"utterance": "My will is my own, Sith! I will answer nothing!", "emotion": "Talk_Forceful"}
+{"utterance": "I met this one in the colony... unworthy, if you ask me.", "emotion": "Taunt"}
+{"utterance": "No! No! We have no time, we have to leave now! I managed to close the door after they killed everyone else, but I don't know how long it will hold.", "emotion": "Talk_Forceful"}
+{"utterance": "I can't help but wonder if part of you didn't enjoy this. I thought we might be friends, but with you... heh, who can tell?", "emotion": "Taunt"}
+{"utterance": "Aren't you just a sweet little droid, yes you are!", "emotion": "Flirt"}
+{"utterance": "Hmph!", "emotion": "Taunt"}
+{"utterance": "You have caused me great stress for nothing? Get out of my shop! If you want this droid, let your credits talk!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] ...err, you've shorted out something, master, but it has nothing to do with my memory. Ow! I am poking my own eye sockets! Ow! Stop!", "emotion": "Horror"}
+{"utterance": "I see. Thank you for your honesty. It's probably for the best that it goes no further. You saved me and I will always be grateful.", "emotion": "Talk_Sad"}
+{"utterance": "No! I'm not going to just stand aside and do nothing! You'll... you'll just have to kill me. But I don't think you will.", "emotion": "Talk_Forceful"}
+{"utterance": "Juhani and Jolee would not swear loyalty to the new ruler of the Sith. They died for their foolishness. Now swear loyalty to Darth Revan, or face your own death!", "emotion": "Talk_Forceful"}
+{"utterance": "May the Force serve you well, young one.", "emotion": "Bow"}
+{"utterance": "Please! Help us!!", "emotion": "Talk_Pleading"}
+{"utterance": "What?!", "emotion": "Talk_Forceful"}
+{"utterance": "The tide of the battle is turning against us. The entire Sith fleet reacts instantly to our every strategy. Every fighter and capital ship attack in perfect unison. I've never seen such military precision!", "emotion": "Talk_Normal"}
+{"utterance": "[Use Force Choke to kill Lorgal.]", "emotion": "Pause"}
+{"utterance": "Will you get over her, already? It's been four years!", "emotion": "Talk_Forceful"}
+{"utterance": "The company would have to be foolish to stay. It will be costly, but in the end, leaving will be cheaper than staying.", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] N-no! You lie! I will never believe the words of a Sith!!", "emotion": "Talk_Forceful"}
+{"utterance": "Anyone out there...? Could you help? I seem to be... ah... doomed.", "emotion": "Greeting"}
+{"utterance": "I'm all for that! Come on!", "emotion": "Talk_Forceful"}
+{"utterance": "Greetings, Master Nemo. It is good to see you again.", "emotion": "Greeting"}
+{"utterance": "I... suppose I am. Something tells me that you are... not like the other students. I don't know why that is.", "emotion": "Talk_Sad"}
+{"utterance": "Do not speak to me now! Kill him!!", "emotion": "Talk_Forceful"}
+{"utterance": "Or... have you? Or did you? Or... will you? Oh, so... many images...", "emotion": "Talk_Sad"}
+{"utterance": "I hear that the Sith have defeated another Republic battlefleet. I do not know how much longer the Republic can last.", "emotion": "Flirt"}
+{"utterance": "Oh, poor baby. You need filling in on some detail?", "emotion": "Taunt"}
+{"utterance": "[Unintelligible Whisper] You didn't know, did you? *cough* Ha-ha-ha.", "emotion": "Prone"}
+{"utterance": "Shut up, fool! Unless you want to be next!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] That might be worth something, but you're still cheating me. All right, 3000 credits then!", "emotion": "Talk_Forceful"}
+{"utterance": "Then it's time for you to prove it!", "emotion": "Talk_Forceful"}
+{"utterance": "I, uh... it must look really strange for me to be obsessing like this, still. You must think I'm incredibly stupid.", "emotion": "Talk_Sad"}
+{"utterance": "Why are you bothering me? I am here to speak with the Council, not some servant! Please leave or I shall be forced to tell the Council of your rude behavior!", "emotion": "Talk_Forceful"}
+{"utterance": "I guess I'm lucky to be alive. No more of this for me, that's for sure.", "emotion": "Talk_Sad"}
+{"utterance": "What what what? Something else come into my prison? Already?", "emotion": "Talk_Laughing"}
+{"utterance": "Whoa - no need to get violent. I can take the hint. I was just trying to do you a favor, but I see you're not interested.", "emotion": "Talk_Sad"}
+{"utterance": "Your words are meaningless. You have no idea of the power we now wield! Revan will rule the galaxy!!", "emotion": "Talk_Forceful"}
+{"utterance": "Then let my blood feed my beloved Kashyyyk!", "emotion": "Talk_Forceful"}
+{"utterance": "Leave... leave the boy alone. Please. You will want to talk to me.", "emotion": "Talk_Pleading"}
+{"utterance": "I... miss them. I know killing Saul won't bring them back, and it won't make me happy again... but I have to do it.", "emotion": "Talk_Sad"}
+{"utterance": "Bah, if it will get you to leave, just take what credits I have. Take em. Take em. Now leave me. I don't want anything to do with you.", "emotion": "Talk_Forceful"}
+{"utterance": "The landing bay is lined with autoguns. To keep it safe. Understand?", "emotion": "Talk_Forceful"}
+{"utterance": "Who are you? Ah. It doesn't matter. Can you handle a blaster? They may attack again at any second.", "emotion": "Talk_Pleading"}
+{"utterance": "We have to explore these worlds!", "emotion": "Talk_Forceful"}
+{"utterance": "There was nothing I could do... Too many of the Mandalorians and their Duros allies...", "emotion": "Flirt"}
+{"utterance": "Well, There... there is more to it. I'm... I'm sure you don't want to hear about it.", "emotion": "Talk_Sad"}
+{"utterance": "Ahhh... it is all so long ago. Lost in the winds, I suppose. Nobody cares what an old man believes anymore, do they?", "emotion": "Talk_Sad"}
+{"utterance": "There is a flash of electricity and warning lights as the systems overload and reset...", "emotion": "Use_Computer"}
+{"utterance": "I wish we could bomb this ocean world into a desert, but we need that kolto for our Sith troops. Man, I hate this place.", "emotion": "Scratch_Head"}
+{"utterance": "[Failure] Do whatever you want! I know you will fail! My fellow Sith are probably even now trying to free me!", "emotion": "Talk_Forceful"}
+{"utterance": "I don't know them... and their identification doesn't match up! They're spies!", "emotion": "Talk_Forceful"}
+{"utterance": "I guess you're right. The dark side is... where I belong. No going back now. Th-thank you.", "emotion": "Talk_Sad"}
+{"utterance": "Try something and it'll be the last mistake you make.", "emotion": "Talk_Forceful"}
+{"utterance": "Goodbye, Dak... and... thank you.", "emotion": "Talk_Sad"}
+{"utterance": "You? Why are you here? Haven't you done enough? Jaarak is dead and Rorworr is dead and... and...", "emotion": "Talk_Forceful"}
+{"utterance": "Five credits! That's what it costs to use our elevator! Five credits!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I... I should answer your questions... yes, perhaps one or two.", "emotion": "Persuade"}
+{"utterance": "I... I understand, Bastila.", "emotion": "Talk_Sad"}
+{"utterance": "Which is exactly what we need in this situation! Something to kill that monster shark that destroyed our station!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] Oh... oh. All this... for nothing...", "emotion": "Talk_Sad"}
+{"utterance": "But I don't really want to talk about that right now. I'm just here to have a couple drinks and try to unwind, you know?", "emotion": "Drunk"}
+{"utterance": "You will never take me as a slave, outsider. By Bacca's Blade, you will not!", "emotion": "Talk_Forceful"}
+{"utterance": "I know. I... should apologize to you. I've become so accustomed to expecting the worst in others, and you've done nothing to deserve that.", "emotion": "Talk_Sad"}
+{"utterance": "For the Republic!", "emotion": "Victory"}
+{"utterance": "Please... this is too painful. End it now, quickly. There is no other way.", "emotion": "Talk_Sad"}
+{"utterance": "Do not be foolish, human! We have the entire armed forces of Manaan at our disposal. You WILL submit to our authority!", "emotion": "Talk_Forceful"}
+{"utterance": "Freyyr is back in power! Slavers will learn to fear us now!", "emotion": "Victory"}
+{"utterance": "Okay, you've made your point. Now shut up and kiss me, you fool!", "emotion": "Flirt"}
+{"utterance": "[Force Persuade] I'm a friend. You want to let me in. You want to stop the depressurization sequence.", "emotion": "Persuade"}
+{"utterance": "Thank you for your assistance, sentient. I am sure the girl's parents will be most appreciative of your efforts.", "emotion": "Bow"}
+{"utterance": "Of course you will. It's practically robbery, since you threatened me to get the deal. I'll let this pass just so you leave.", "emotion": "Talk_Forceful"}
+{"utterance": "Ha! *snort*", "emotion": "Talk_Laughing"}
+{"utterance": "It's good you came. I'll enjoy killing you.", "emotion": "Taunt"}
+{"utterance": "Maybe I should just split you open from head to toe! How's that for wrath?", "emotion": "Talk_Forceful"}
+{"utterance": "He had gone there that night to end it! We talked the night before and he had promised!", "emotion": "Talk_Forceful"}
+{"utterance": "Do not... do not say such things! I... still have power! Go! Go from my... ancient tomb!", "emotion": "Horror"}
+{"utterance": "Im... [cough] impossible. I... I cannot be beaten. I am the Dark Lord of the Sith.", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "Primitive? Our traditions are ancient! There is great order and honor in how we live! Even with our... troubles.", "emotion": "Talk_Forceful"}
+{"utterance": "That's funny. You should tell that one to the torturer when he comes to deal with you.", "emotion": "Talk_Forceful"}
+{"utterance": "Are you going to let us be insulted?!", "emotion": "Talk_Laughing"}
+{"utterance": "You some kind of historian, or something? You should forget about the past and look towards the future. That's why I joined the Sith - the Republic is old news. And then I get stuck on Manaan, the worst post in the galaxy!", "emotion": "Drunk"}
+{"utterance": "Yeah, let's see the big crime lord come and get his money from the Black Vulkars!", "emotion": "Talk_Forceful"}
+{"utterance": "No, it is time for *you* to die, master. My pupil stands with me.", "emotion": "Talk_Forceful"}
+{"utterance": "Ha ha ha! See?! I have the power to do anything!", "emotion": "Horror"}
+{"utterance": "[Failure] And I expect my goods to be delivered on time. You have a problem with the price, you talk to Lurze.", "emotion": "Persuade"}
+{"utterance": "Hey! That... that's a Jedi trick!", "emotion": "Talk_Forceful"}
+{"utterance": "Let me kill this one, Lashowe! Let me do it!", "emotion": "Talk_Pleading"}
+{"utterance": "Patrol droids - they may be programmed to attack on sight!", "emotion": "Talk_Forceful"}
+{"utterance": "Why don't *you* tell me? You've killed a dragon. Me, I just make do hunting desert wraid. And there's not many of those even left.", "emotion": "Talk_Forceful"}
+{"utterance": "I must say that it is quite disappointing that you must die now, as well, since there's no telling how far your scheming with Yuthura went.", "emotion": "Persuade"}
+{"utterance": "Well, damn it, I want to know why that is! I want some questions answered!", "emotion": "Talk_Forceful"}
+{"utterance": "And denied! No, I cannot! And so here I will stay.", "emotion": "Talk_Forceful"}
+{"utterance": "Please, take it. I... want to see you again. When we can talk.", "emotion": "Talk_Sad"}
+{"utterance": "To think I actually believed for a moment that you and I were friends. So be it.", "emotion": "Talk_Sad"}
+{"utterance": "I bet they shut this place down... I would.", "emotion": "Talk_Sad"}
+{"utterance": "Nobody saw anything, and most of the other hunters never even knew him. He had just started.", "emotion": "Talk_Sad"}
+{"utterance": "Well, nice to see you again. Ah, not to pressue you - certainly, no pressure - but you did say you'd rescue me.", "emotion": "Talk_Sad"}
+{"utterance": "Take the blades and leave me to my darkness...", "emotion": "Talk_Sad"}
+{"utterance": "The sooner I get out of this dustbowl, the better.", "emotion": "Talk_Sad"}
+{"utterance": "I... am *not* Revan!!", "emotion": "Talk_Forceful"}
+{"utterance": "Then I'll just kill you both!", "emotion": "Taunt"}
+{"utterance": "I think that's a lot of responsibility for simple scum like you.", "emotion": "Taunt"}
+{"utterance": "[Failure] Never! I am Sith, I will never betray them! Your Republic is weak and will soon fall at any rate!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] What... you're a Czerka inspector, aren't you! Slimy little... I've heard about these shake-downs.", "emotion": "Talk_Forceful"}
+{"utterance": "The outsiders will pay for how they dishonored us!", "emotion": "Talk_Forceful"}
+{"utterance": "You're right. I should have tried.", "emotion": "Talk_Sad"}
+{"utterance": "Oh, it's you again. I didn't think I'd see you around here.", "emotion": "Drunk"}
+{"utterance": "[Force Persuade] This argument was the fault of the Sith. She should be arrested.", "emotion": "Persuade"}
+{"utterance": "Huh? What... what just happened? What am I doing in here? Damn you, old man! I'll kill you if I ever get out of here!", "emotion": "Talk_Forceful"}
+{"utterance": "Then you shall not leave this place. I... have power, still. I can... still command!", "emotion": "Talk_Forceful"}
+{"utterance": "You'll want to change your tone. You wouldn't be the first Sith I've killed.", "emotion": "Talk_Forceful"}
+{"utterance": "I did not believe Zaalbar's claims; I believed the elder boy, as tradition dictated. The shame of Zaalbar's attack blinded me.", "emotion": "Talk_Sad"}
+{"utterance": "Well... you can have those writings he mentioned. I won't fight you for them. Master Uthar will be very pleased with you if you give them to him, you know.", "emotion": "Persuade"}
+{"utterance": "Please... say nothing to Woorwill. Let a trial call me guilty. Let me be the monster, not Rorworr. Tell Worrroznor, Holder of the Laws, in the home east of here.", "emotion": "Talk_Pleading"}
+{"utterance": "I just hope I can prove myself to my people. It will be difficult to make them listen. I just don't know.", "emotion": "Talk_Sad"}
+{"utterance": "I take the reward and leave the weak fools to their fate.", "emotion": "Sleep"}
+{"utterance": "[Success] I... I'll sign the contract. Yeah, I guess that's best. I mean, the deal can't be all bad, right?", "emotion": "Persuade"}
+{"utterance": "What? You're... you're going to torture me?", "emotion": "Talk_Pleading"}
+{"utterance": "Do not presume to tell me how I should speak of anything! They should have known better than to entrust such a task to you!", "emotion": "Talk_Forceful"}
+{"utterance": "Your death will bring glory to our new Sith Master!", "emotion": "Talk_Forceful"}
+{"utterance": "Nah, this can't be Calo Nord. He's supposed to be tough. This guy's nothing but a runt!", "emotion": "Talk_Normal"}
+{"utterance": "I was told that you're a friend of Jolee Bindo... and that Jolee has returned to the sector. Please, I must speak to him. It's very urgent!", "emotion": "Talk_Pleading"}
+{"utterance": "I don't have to listen to you, Carth! You ain't my father - though you're sure old enough to be! So keep your lectures inside your withered old head, 'cause I don't need 'em!", "emotion": "Talk_Forceful"}
+{"utterance": "Sadly, Yuthura, it is you who are mistaken. Your pupil is more ambitious than you realize... isn't that so, young one?", "emotion": "Persuade"}
+{"utterance": "How come every time you open your mouth to talk the scent of rancor dung comes out?", "emotion": "Scratch_Head"}
+{"utterance": "Commentary: The meatbag speaks without clarity. Detail this agreement or the master will splatter your organs all over the floor!", "emotion": "Talk_Forceful"}
+{"utterance": "You... You killed my father, you killed my people, you treat us like animals... You deserve to die!", "emotion": "Talk_Forceful"}
+{"utterance": "[Inject truth serum: moderate dosage.]", "emotion": "Use_Computer"}
+{"utterance": "I wasn't talking to you!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] You are deserving, I know. I will go as low as 3000 credits. That is a very fair price.", "emotion": "Persuade"}
+{"utterance": "It's time to finish this.", "emotion": "Prone"}
+{"utterance": "They were provoked, your honor! The Sith goaded them into this fight!", "emotion": "Talk_Forceful"}
+{"utterance": "Yeah - go back where you came from! We don't want your kind up here!", "emotion": "Taunt"}
+{"utterance": "Hey, you did it! You got them going! All right boys, give me some space.", "emotion": "Victory"}
+{"utterance": "Hey, wait for a moment. I need these rigs. I'm no marksman. No way I can agree to that. No way.", "emotion": "Talk_Forceful"}
+{"utterance": "*sniff* Me... me palkie. Is na gon-disen.", "emotion": "Talk_Sad"}
+{"utterance": "I greet you again, <FullName>. I am humble, hoping you have found the blade of Bacca's sword. Imagine... Chieftain Freyyr... humble.", "emotion": "Talk_Sad"}
+{"utterance": "She was always impulsive... *sob*", "emotion": "Flirt"}
+{"utterance": "Do you think those Republic subs are the only way to reach the ocean floor? Malak and Revan found a way down here long before the Hrakert station was built.", "emotion": "Talk_Normal"}
+{"utterance": "I do not like that you have seen us at our worst. Jaarak has lost his honor to an outsider.", "emotion": "Talk_Sad"}
+{"utterance": "Is that all? Then take what I have. Yes, I'm just giving it to you. I can afford to turn this mugging into simple beggary.", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I suppose you're right. It's not like you can't tell the state of things just by looking around.", "emotion": "Talk_Sad"}
+{"utterance": "You can't have her! I will fight to keep her from you!", "emotion": "Talk_Forceful"}
+{"utterance": "You... betrayed me?! I thought... we were friends! Damn you!!", "emotion": "Talk_Forceful"}
+{"utterance": "The final test continues as it should. Proceed and be rewarded, young one.", "emotion": "Persuade"}
+{"utterance": "Impossible!", "emotion": "Talk_Forceful"}
+{"utterance": "We'll just see whose head explodes, you ungrateful monkey-lizard!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] The Jedi code is nothing but words, the babblings of senile old Masters! The code cannot help me now!", "emotion": "Talk_Forceful"}
+{"utterance": "We don't always need to be fighting like this!", "emotion": "Talk_Pleading"}
+{"utterance": "Please! Tell him to let us go, I beg you!!", "emotion": "Talk_Pleading"}
+{"utterance": "I don't know if I should be outraged that you keep joking about serious matters, or if I should be grateful that you can always lighten the mood.", "emotion": "Talk_Sad"}
+{"utterance": "Walk with care! Only our bravest return from these lands. Your soft feet are a barely tolerated insult.", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] You... always had more strength than I did. I told you that. I felt so... helpless before your destiny.", "emotion": "Talk_Injured"}
+{"utterance": "Still sticking up for me, Juhani?", "emotion": "Talk_Laughing"}
+{"utterance": "No! Don't say anything else! I can't let you... I killed Rorworr. Tell Worrroznor, Holder of the Laws... he will judge me.", "emotion": "Talk_Pleading"}
+{"utterance": "Objection! That doesn't prove she was a Jedi!", "emotion": "Talk_Forceful"}
+{"utterance": "I acquired a ship and followed the same route Revan and my Master used on their own journey. Then it was simply a matter of waiting for you to return for the Star Map.", "emotion": "Talk_Normal"}
+{"utterance": "Yes, I... could join you in your battle against the Dark Lord. That alone would not make up for all I have done, yet... it would be a step in the right direction.", "emotion": "Talk_Sad"}
+{"utterance": "You were having an affair with a Sith! You wanted to end it quickly and quietly, so you killed her from behind and tried to flee!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] Ergh... I should tell you about some of us that have gone to the Shadowlands. There have been many...", "emotion": "Persuade"}
+{"utterance": "[Failure] You lie!", "emotion": "Talk_Forceful"}
+{"utterance": "I'll just run along, now, and give this to Master Uthar. I'll be sure to tell him of your contribution, naturally.", "emotion": "Flirt"}
+{"utterance": "Be silent! You have already questioned the witness, prosecutor.", "emotion": "Talk_Forceful"}
+{"utterance": "I... I don't think the light side is for me. But... maybe neither are the Sith. Maybe it's time for me to leave. Thanks, I suppose... and good luck.", "emotion": "Salute"}
+{"utterance": "How dare you make such an offer! This is an insult to everything the Jedi stand for!", "emotion": "Talk_Forceful"}
+{"utterance": "RRAAAAAAGHGHGH!!! BACCA'S SWORD! NOTHING ELSE!", "emotion": "Talk_Forceful"}
+{"utterance": "Nobody looks out for their neighbor anymore. Well, if this is it, I'd rather get it over with and maybe take you out with me.", "emotion": "Talk_Forceful"}
+{"utterance": "Ha-ha-ha!", "emotion": "Pause"}
+{"utterance": "You swoop racers, do you even know what it takes to run an outpost like this? As long as there's flat ground, what do you care?", "emotion": "Talk_Forceful"}
+{"utterance": "Casus is dead? It is as I feared, though I am relieved the Matales are not responsible.", "emotion": "Talk_Sad"}
+{"utterance": "Impossible! That machinery was constructed by us to last a thousand years!", "emotion": "Talk_Forceful"}
+{"utterance": "Ahhh! Na abds! Na abds!!", "emotion": "Horror"}
+{"utterance": "You should go. Malak awaits. This isn't over, yet... for any of us.", "emotion": "Talk_Injured"}
+{"utterance": "As you desire, master. I cannot help but claim a small amount of relief. Signing off.", "emotion": "Salute"}
+{"utterance": "But it is your choice, human. Pray that no-one takes your refusal personally.", "emotion": "Talk_Forceful"}
+{"utterance": "Don't threaten me. Every racer here will step up to stop you. You aren't one of us. We take care of our own.", "emotion": "Talk_Forceful"}
+{"utterance": "This is Carth Onasi on your personal communicator. I'm tracking your position through the Endar Spire's life support systems.", "emotion": "Use_Computer_LP"}
+{"utterance": "No, I won't! I can choose my own path!", "emotion": "Talk_Forceful"}
+{"utterance": "Now just settle down. There's no need to get upset - I run an honest business here.", "emotion": "Talk_Pleading"}
+{"utterance": "Chuundar allows you to be here, outsider. You would be dead if he didn't.", "emotion": "Talk_Forceful"}
+{"utterance": "Oh, thank you! Thank you!", "emotion": "Talk_Pleading"}
+{"utterance": "I like the first part of that. I'm a bit more partial to \"the most handsome pilot in the galaxy\". What do you think?", "emotion": "Persuade"}
+{"utterance": "His name is... was Ward Fizark. He used to work in the mines but they were scaled back last year.", "emotion": "Talk_Sad"}
+{"utterance": "D-damn you! You will never be a Sith, now! I... I will destroy you for this! You... you will not leave here alive!!", "emotion": "Talk_Forceful"}
+{"utterance": "Whu...? Hmm... you trying to get my secrets, I bet. Trying to find where I hunt, huh? I tell you nothing!", "emotion": "Talk_Forceful"}
+{"utterance": "I don't need a handout. I just can't sell it to Fazza without a license. Please, I'm worried about having it. They are so rare...", "emotion": "Talk_Sad"}
+{"utterance": "They disobeyed the Jedi Council!", "emotion": "Talk_Forceful"}
+{"utterance": "You're the one that convinced me to go through with this plan. Why wouldn't I see it through?", "emotion": "Persuade"}
+{"utterance": "Uhh... greetings. You wouldn't happen to be looking for a prospect for the academy, would you?", "emotion": "Salute"}
+{"utterance": "No... I'm not strong enough. There is too much anger inside me now. Too much hatred and fear. I can no longer find peace in the Force.", "emotion": "Talk_Injured"}
+{"utterance": "You are a student at the academy. You may enter by the door.", "emotion": "Salute"}
+{"utterance": "Do you know who I am, worm?", "emotion": "Talk_Forceful"}
+{"utterance": "You are a pathetic fool, Revan! Together we could have defeated Malak and ruled over an Empire, but now I will be at Lord Malak's side instead!", "emotion": "Talk_Forceful"}
+{"utterance": "Explain yourself, outsider. If you have information that will affect this trial, I must know it.", "emotion": "Talk_Forceful"}
+{"utterance": "Dantooine... it seems like a lifetime since I last set foot on her surface, though in truth it has only been a few months. We should be safe from Malak here... for now, at least.", "emotion": "Talk_Normal"}
+{"utterance": "I hope not. I hope you slavers didn't get him. N-not that you're a slaver. I'm sorry. I'm very tired. I haven't slept much lately.", "emotion": "Talk_Sad"}
+{"utterance": "No! I object! I am the victim of a conspiracy here!", "emotion": "Talk_Forceful"}
+{"utterance": "So, let's see how these rigged-out droids like me jumping around. Hopefully the explosion kills you too!", "emotion": "Talk_Forceful"}
+{"utterance": "After this? No, nothing could make me feel safer than to be loved by you.", "emotion": "Talk_Injured"}
+{"utterance": "I see now it was a mistake to let you go into that Temple. I of all people should have seen this coming. First Saul Karath, and now you... I mean, I should be an expert on betrayal by now!", "emotion": "Talk_Sad"}
+{"utterance": "I don't know. The vision of our future is clouded by shadows cast from the dark side. But I sense something ominous lurking in those shadows.", "emotion": "Persuade"}
+{"utterance": "Well done, Lord Revan. You are as ruthless as Malak ever was! Quickly, now. We have to get to the Star Forge and destroy the Usurper!", "emotion": "Talk_Forceful"}
+{"utterance": "Hold it right there, whoever you are! We... we're not going back to the academy! We'll kill you rather than go back!", "emotion": "Talk_Forceful"}
+{"utterance": "We didn't have enough medical supplies. The colony was burning and the dying were everywhere. I remember holding my wife and screaming for the medics. They... didn't come in time.", "emotion": "Talk_Sad"}
+{"utterance": "False prophet! Deceiver! You have betrayed me! You have sold the hope of the entire village to the selfish and damnable Igear!", "emotion": "Talk_Forceful"}
+{"utterance": "I think we can see the answer clear enough, Mr. Sunry!", "emotion": "Talk_Forceful"}
+{"utterance": "Me na awnts palkie!! Na abds!!", "emotion": "Horror"}
+{"utterance": "[Failure!] No! That bond is what took me down this path to begin with! It poisoned me... I hated myself for loving you and now I have betrayed everything!", "emotion": "Talk_Forceful"}
+{"utterance": "I... I must g-get into... the academy... must...", "emotion": "Talk_Sad"}
+{"utterance": "Gluupor think... Gluupor think he can't talk more right now. Gluupor feels the need to lie down... maybe just stay here...", "emotion": "Flirt"}
+{"utterance": "Decide? Decide what?", "emotion": "Talk_Forceful"}
+{"utterance": "No! You can't do this! It isn't fair!", "emotion": "Talk_Pleading"}
+{"utterance": "You play a dangerous game. Are you certain you wish to take this risk? I could end your life and gain Malak's favor with a single stroke of my lightsaber.", "emotion": "Talk_Injured"}
+{"utterance": "[Force Persuade] You wish to tell us more about this agreement with the Wookiee leadership.", "emotion": "Persuade"}
+{"utterance": "[Force Persuade] You really want to let me go. I have done nothing.", "emotion": "Persuade"}
+{"utterance": "Nothing! Outsider lies! Do not listen to them, Woorwill!", "emotion": "Talk_Forceful"}
+{"utterance": "No, this cannot wait any longer. You have no understanding of what we are going up against; I will not allow you to go in unprepared!", "emotion": "Talk_Forceful"}
+{"utterance": "I don't have time for this. Out!!", "emotion": "Talk_Forceful"}
+{"utterance": "You were a special case. The Council had no other choice. They needed you alive so they could discover the location of the Star Forge. It was an act of desperation.", "emotion": "Talk_Injured"}
+{"utterance": "[Failure] I can't do it. That's my living. I'd have to leave this rock altogether. I can't do it.", "emotion": "Talk_Forceful"}
+{"utterance": "I told you not to put the prisoner into shock, didn't I?! Now how are we supposed to find out where the weapon cache is?! Uthar will be furious!!", "emotion": "Talk_Forceful"}
+{"utterance": "Yes, I see you speak the truth. I am no match for you. Please, for the sake of what we once shared, do not make me suffer. End my life quickly. There is no other way.", "emotion": "Talk_Sad"}
+{"utterance": "I cannot allow that to happen. Please, this is too painful. Strike me down. End this now, quickly. There is no other way.", "emotion": "Talk_Sad"}
+{"utterance": "[Force Persuade] You will confess your crimes. You WANT to confess your crimes.", "emotion": "Persuade"}
+{"utterance": "I am done with you, outsider. Go away. I won't be your entertainment.", "emotion": "Talk_Forceful"}
+{"utterance": "I am a Sith, better trained than you! I'll show you!!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] I have been conditioned to resist mental persuasion, citizen. Please do not attempt that again.", "emotion": "Persuade"}
+{"utterance": "What?! Sound the alarm! Droids, destroy them!", "emotion": "Victory"}
+{"utterance": "[Success] Can you spare me a few moments? I have something I want to get off my chest. I want to tell you about one of our workers. His name was Griff.", "emotion": "Persuade"}
+{"utterance": "Now, leave me to my drinking. I don't think we'd have much to talk about. Not if I can help it.", "emotion": "Talk_Sad"}
+{"utterance": "You'll get your... turn soon enough, fool. And when you do, *Cough* I will be there, laughing as you collapse from... heat exhaustion and Mekel's beatings!", "emotion": "Talk_Forceful"}
+{"utterance": "I guess I have to teach you a lesson: Janice Nall can't be pushed around! So I'll just keep your 50 credits and say buyer beware... and there's nothing you can do about it.", "emotion": "Talk_Forceful"}
+{"utterance": "No, Zaalbar. I don't care! I won't help the Sith against the Republic! Not for anything! Not even for you!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] ...no, no, no. This is no good, master. You have nearly detonated my thermal core three times in a matter of minutes.", "emotion": "Horror"}
+{"utterance": "[Failure] N-never! Y-your... mind tricks... do not work!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] I don't need to pay the docking fee.", "emotion": "Persuade"}
+{"utterance": "All you have to do is listen to me. That's all I ask.", "emotion": "Talk_Sad"}
+{"utterance": "Aieeeeee!", "emotion": "Ready"}
+{"utterance": "Casus is dead? It is as I feared, though I am relieved the Matales are not responsible.", "emotion": "Talk_Sad"}
+{"utterance": "Jaarak's fate would be easier to stomach if an outsider had not profited from it.", "emotion": "Talk_Sad"}
+{"utterance": "I should dismantle you!", "emotion": "Talk_Forceful"}
+{"utterance": "The government may not be willing to say anything, but we citizens in the water know what you've done! You would best leave Manaan while you can!", "emotion": "Talk_Forceful"}
+{"utterance": "I am tired of you controlling my life! I love Rahasia and I want to be with her forever!", "emotion": "Talk_Forceful"}
+{"utterance": "Do it. Quickly...", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] Now *that* has to be a first. Wrong, is it? Let me show you how wrong I think it is.", "emotion": "Talk_Laughing"}
+{"utterance": "I can't believe you let that murderer Sunry go free! If the Selkath are so neutral and unbiased, why can't the Sith find any justice on this planet?", "emotion": "Talk_Forceful"}
+{"utterance": "You will pay for this, fool! We will destroy you!!", "emotion": "Talk_Forceful"}
+{"utterance": "May the Force serve you well.", "emotion": "Bow"}
+{"utterance": "First, make sure you have a stealth field generator equipped on your belt. You can't use your stealth skill without one.", "emotion": "Talk_Normal"}
+{"utterance": "Watch what you say - I'm a Jedi!", "emotion": "Talk_Forceful"}
+{"utterance": "I'm sick of hearing about Manaan's neutrality! It sounds like a coward's excuse not to fight, if you ask me!", "emotion": "Talk_Forceful"}
+{"utterance": "You are such a fool. I cannot believe that you were gullible enough to allow me to return with the holocron. I gained considerable prestige for it, you know.", "emotion": "Taunt"}
+{"utterance": "But be careful. There's a Sith patrol just down the corridor. Use your STEALTH skill to sneak past him.", "emotion": "Use_Computer_LP"}
+{"utterance": "Fine, we'll go. As for you... I'll find you later. Trust me on that.", "emotion": "Talk_Forceful"}
+{"utterance": "No, I don't, but better me than Chuundar. He sells his own people for power. Please help, <FullName>. You've brought me hope...", "emotion": "Talk_Sad"}
+{"utterance": "[Force Persuade] You want to let them go.", "emotion": "Persuade"}
+{"utterance": "The things you say!", "emotion": "Flirt"}
+{"utterance": "Hardly any shifts available this week. I should give up digging.", "emotion": "Talk_Sad"}
+{"utterance": "[Lie] I don't have to tell you! I have higher authority!", "emotion": "Talk_Forceful"}
+{"utterance": "You... I will destroy you, mongrel! I will rip the flesh from your bones!!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] You think me weak enough to give in to false promises of wealth and riches? The Sith are stronger than that! We will have it all eventually anyway!", "emotion": "Talk_Forceful"}
+{"utterance": "Is there some reason you should stop me from going? Are you afraid I'm going to tell someone you're here? What are you going to do, kill me?", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] Nothing you could do to us would make us talk! We Sith are stronger than you give us credit for!", "emotion": "Talk_Forceful"}
+{"utterance": "Of course it means something to me! The Sith have to be stopped! You think it doesn't matter to me that everyone on Taris is dead? That the Republic is in danger?", "emotion": "Talk_Forceful"}
+{"utterance": "Speak with me directly, away from the boy. Please.", "emotion": "Talk_Sad"}
+{"utterance": "And you need to be more mindful of your responsibilities! Have you any idea of the danger a fallen Jedi represents? Not only to yourself, but to others as well?", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] You think bribes will work? You must be dumber than I thought to think that a Sith would join the losing side just for credits!", "emotion": "Talk_Forceful"}
+{"utterance": "Go away, rabid fool. I won't listen to you anymore.", "emotion": "Talk_Sad"}
+{"utterance": "I... I understand, Bastila.", "emotion": "Talk_Sad"}
+{"utterance": "Heh heh. Who said I left the Jedi?", "emotion": "Talk_Laughing"}
+{"utterance": "You can't stop me! You first, human, and then she dies!!", "emotion": "Talk_Forceful"}
+{"utterance": "It is right that Chuundar died. He was tainted by outsider greed.", "emotion": "Talk_Sad"}
+{"utterance": "He attacked Chuundar with his claws. I thought he had gone mad... shed his honor. I was bound by the old ways.", "emotion": "Talk_Sad"}
+{"utterance": "[Success] They... they call the site the Valley of the Dark Lords. Ancient Sith are buried in tombs there, along with many artifacts of old... some of great power, apparently.", "emotion": "Persuade"}
+{"utterance": "[Success] Bah! This humans information is worthless! We have lost the facility on the bottom of the ocean. Our efforts will be exposed!", "emotion": "Talk_Forceful"}
+{"utterance": "Eeeee! No!", "emotion": "Horror"}
+{"utterance": "There is no death: there is the Force. Thank you, Revan. I am ready to face my fate now.", "emotion": "Talk_Sad"}
+{"utterance": "I'm sick of listening to you rant! Why don't *you* leave?!", "emotion": "Talk_Forceful"}
+{"utterance": "That's an old track tale, you know; when the wind decides to stop fighting? I used to have that. Heh... not any more.", "emotion": "Talk_Sad"}
+{"utterance": "Excellent. Continue on through. Please be aware that the colony is under Sith jurisdiction... I'd advise you to stay out of their way.", "emotion": "Use_Computer"}
+{"utterance": "That's the idea! Time to die, scum!", "emotion": "Talk_Forceful"}
+{"utterance": "Joining with us means realizing your true potential. It means not stifling yourself solely for the sake of hide-bound shamans and their antiquated notion of order. Be what you were meant to be.", "emotion": "Persuade"}
+{"utterance": "What? No! This isn't right! No!", "emotion": "Horror"}
+{"utterance": "Outsider, you talk to me if you must bother us at all. Leave him alone.", "emotion": "Talk_Forceful"}
+{"utterance": "That does not excuse your actions! The neutrality and laws of Manaan WILL be upheld!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] I think you want to offer me a higher price.", "emotion": "Persuade"}
+{"utterance": "All for nothing. He killed my crew... who knows where my ship is. Well, there's your pay, Eli. Blaster fire, and keep the change.", "emotion": "Talk_Sad"}
+{"utterance": "Oh great! You just get away from me! The last thing I need is Sand People trying to cut me up! Go on! I've got blasters!", "emotion": "Horror"}
+{"utterance": "[Try to enter the password.]", "emotion": "Use_Computer"}
+{"utterance": "No, not to you. You are an outsider and only care about our weaknesses. I won't say anything to you.", "emotion": "Talk_Forceful"}
+{"utterance": "You see, Mekel? It is not so difficult. Time for your punishment.", "emotion": "Sleep"}
+{"utterance": "I... I concede. I do not know the answer to your riddle. You are victorious.", "emotion": "Bow"}
+{"utterance": "[Failure] You're wrong! I... must wait here to be worthy; you are... just trying to trick me so you will be chosen!", "emotion": "Talk_Forceful"}
+{"utterance": "Damn! So much for catching them unprepared.", "emotion": "Talk_Forceful"}
+{"utterance": "You won't find us to be such easy vitcims! Our Sith Masters have taught us well!", "emotion": "Talk_Forceful"}
+{"utterance": "Isn't the Jedi Council on Coruscant?", "emotion": "Talk_Normal"}
+{"utterance": "You will be crushed with the Republic and all the fools who bow down to the Jedi Council! No one can stand against the power of the Star Forge and the Sith fleet!", "emotion": "Talk_Forceful"}
+{"utterance": "But now fate has given me a second chance to prove myself. Once I defeat you in combat no one will question my claim to the Sith throne; my triumph will be complete!", "emotion": "Pause"}
+{"utterance": "No, Carth, not like this! Do not give in to the hate.", "emotion": "Prone"}
+{"utterance": "Leave me to my pain!", "emotion": "Talk_Forceful"}
+{"utterance": "A... few of the bolder students have tried. They did not return. As I understand it, the tombs are quite dangerous.", "emotion": "Talk_Sad"}
+{"utterance": "I was hard on you, dear. I wasn't a very good mother to you, I know that.", "emotion": "Talk_Sad"}
+{"utterance": "Griff, are you blind? Can't you see you're talking to a Jedi? We're out here trying to save the galaxy! We can't waste time on this!", "emotion": "Talk_Forceful"}
+{"utterance": "And who are you to stop us, little man?", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] Hmph. 'Harvesting'. Tell us about this agreement with the Wookiee leadership.", "emotion": "Persuade"}
+{"utterance": "What? What are you talking about? Liar!", "emotion": "Talk_Forceful"}
+{"utterance": "[Persuade] I need to get inside. I have been sent to speak with the Master of the Academy!", "emotion": "Talk_Pleading"}
+{"utterance": "We can't fight back. Chuundar has bartered to reduce the slaves taken, but if any Czerka die, it increases again.", "emotion": "Talk_Forceful"}
+{"utterance": "I told you my wife died four years ago. I... I've just been trying to remember what she looked like.", "emotion": "Talk_Sad"}
+{"utterance": "Dead? I... I can't believe it.", "emotion": "Talk_Sad"}
+{"utterance": "Shen! You're safe!", "emotion": "Talk_Pleading"}
+{"utterance": "Yes... I cannot deny it any longer. [cough] You are the one who deserves... who deserves to be the Dark Lord.", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "This court will not be mocked!", "emotion": "Talk_Forceful"}
+{"utterance": "We... we shouldn't have done that. It was wrong. The Jedi aren't allowed to fall in love.", "emotion": "Talk_Forceful"}
+{"utterance": "Ha ha! You are such a pain, you know that?", "emotion": "Talk_Laughing"}
+{"utterance": "Ha ha ha! I maaay do that. In time, in time. But for now, I've decided to keep you in restraints. No point in you getting strange ideas in your head and ruining my fun.", "emotion": "Talk_Laughing"}
+{"utterance": "He was supposed to be completely loyal! To serve me after my husband died!", "emotion": "Talk_Forceful"}
+{"utterance": "Oh no, how can I resist a challenge to my manly pride, huh? Ha ha! Fine, you've made your point. Interrogate at will.", "emotion": "Talk_Laughing"}
+{"utterance": "We will not tolerate threats to our neutrality, our existence, and our way of life!", "emotion": "Talk_Forceful"}
+{"utterance": "Though you have aged, young sentient, I do believe you are indeed the one I seek. I am here to return you to your father.", "emotion": "Listen"}
+{"utterance": "When you arrive, we will confront Chuundar in the throne room. My people will no longer be slaves.", "emotion": "Victory"}
+{"utterance": "And what does that mean? Is this more of that destiny garbage that the Jedi keep talking about? Well, that can't be it!", "emotion": "Talk_Forceful"}
+{"utterance": "I don't know what fate awaits us, but I sense Bastila still has a role to play in the events to come. I have no doubt she will be waiting for us on the Star Forge.", "emotion": "Talk_Sad"}
+{"utterance": "[Failure] No, please, I need the full 500. I have a family... we have nothing.", "emotion": "Talk_Pleading"}
+{"utterance": "NO!!", "emotion": "Talk_Forceful"}
+{"utterance": "I saw what the Sith did to Taris - anyone who serves the dark side is evil! Big Z and I are with Carth on this one!", "emotion": "Talk_Forceful"}
+{"utterance": "Time for this to end, Bastila!", "emotion": "Talk_Forceful"}
+{"utterance": "Then I guess it's time for you to die!", "emotion": "Taunt"}
+{"utterance": "What do you mean? I don't need to go hunting Eli's family or anything. I've seen justice done.", "emotion": "Talk_Sad"}
+{"utterance": "They are offering no resistance.", "emotion": "Use_Computer_LP"}
+{"utterance": "Please... don't say that...", "emotion": "Talk_Sad"}
+{"utterance": "I've seen enough. Sorry, Lyn, but you're not what the Starlight Entertainers are looking for. You've got nice moves, kid, but you don't do too well with a partner.", "emotion": "Talk_Sad"}
+{"utterance": "You've got to resist it! Th... this isn't you talking... we... we can help you, we can find a way --", "emotion": "Talk_Pleading"}
+{"utterance": "All I have worked for is destroyed! All the hopes and dreams of my father and grandfather before him turned to dust! Begone, up-worlder - I have only curses to speak at you!", "emotion": "Talk_Forceful"}
+{"utterance": "[The gizka devours the poison in a single, greedy gulp. It will probably take a few seconds for the poison to have an effect.]", "emotion": "Victory"}
+{"utterance": "Please hurry. The credits are all we have to start again.", "emotion": "Talk_Sad"}
+{"utterance": "Answer the damn questions, already.", "emotion": "Talk_Forceful"}
+{"utterance": "After years in the Shadowlands, I remember only that outsiders are not to be trusted! I'll see you dead!", "emotion": "Talk_Forceful"}
+{"utterance": "To which pillar do you wish to transfer power for the Base System?", "emotion": "Use_Computer"}
+{"utterance": "[Failure] You do not fool me for a second! The Council fawns over you and places all their hope in you to save them... you wouldn't turn on them!", "emotion": "Talk_Forceful"}
+{"utterance": "I couldn't touch you on Dantooine, but I can, here! The Sith have taught me the power of freedom... and revenge! FOR JUHANI!!", "emotion": "Talk_Forceful"}
+{"utterance": "It was... it was a moment of weakness. When I kissed you... we shouldn't have... no, I'm sorry.", "emotion": "Talk_Sad"}
+{"utterance": "Run for it, Mission! Go! Go!", "emotion": "Taunt"}
+{"utterance": "I don't know who founded Anchorhead the first time, but I know why they left.", "emotion": "Talk_Sad"}
+{"utterance": "I don't know. I'll...I'll have to think about that. I'll keep it on me while I decide.", "emotion": "Talk_Sad"}
+{"utterance": "Hey, Bastila. You ever just use the Force for fun? You know, a little jolt of the Force to trip some jerk who's ticking you off?", "emotion": "Listen"}
+{"utterance": "I'm sorry, Dustil. I did all I could, and I... failed you.", "emotion": "Talk_Sad"}
+{"utterance": "I am ready to accept the training... and my age has nothing to do with it!", "emotion": "Bow"}
+{"utterance": "Shut up and get ready to fight. Stupid.", "emotion": "Inject"}
+{"utterance": "Don't you snap at me, missy! You want a lecture? How's this: only bratty little children fly off the handle because of a simple comment.", "emotion": "Talk_Forceful"}
+{"utterance": "Well you can ask him yourself. I'm not talking to you a second more than I have to.", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I'd... really like to pay you more. Here... take whatever I have. It's all yours.", "emotion": "Persuade"}
+{"utterance": "Why am I here?", "emotion": "Talk_Forceful"}
+{"utterance": "I know I will!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] We let you go now. We got what we wanted. Yeah, we sure did.", "emotion": "Persuade"}
+{"utterance": "I won't talk to you with that Mandalorian thug around!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] You don't want to fight me.", "emotion": "Persuade"}
+{"utterance": "Sunry was a good man once. And a good friend. I'll miss him.", "emotion": "Talk_Sad"}
+{"utterance": "I hope the Selkath fry that Sunry for what he did. Elassa was a real looker, and nobody kills a Sith and gets away with it!", "emotion": "Drunk"}
+{"utterance": "I accept the reward and assist them.", "emotion": "Sleep"}
+{"utterance": "You... attacked them?!", "emotion": "Talk_Forceful"}
+{"utterance": "The flow of pure kolto has stopped coming up from the ocean floor. Your submersible arose at approximately the same time this occured. We have deemed you responsible!", "emotion": "Talk_Forceful"}
+{"utterance": "Please... don't tell them anything. Rorworr was admired... they need to believe in him.", "emotion": "Talk_Pleading"}
+{"utterance": "Your Honors! No!", "emotion": "Talk_Forceful"}
+{"utterance": "Forget it! I'm not looking out for you... off my ship. Now!", "emotion": "Talk_Forceful"}
+{"utterance": "I'm sorry, I've taken enough of your time. We should press on.", "emotion": "Talk_Sad"}
+{"utterance": "I pass on my knowledge.", "emotion": "Sleep"}
+{"utterance": "[Success] Hah! Too funny!", "emotion": "Talk_Laughing"}
+{"utterance": "[Success] I can tell you about the agreement. We supply arms in exchange for a supply of healthy Wookiees.", "emotion": "Persuade"}
+{"utterance": "[Success] [His mind is simple to manipulate. His face goes blank, then recovers as he assumes the suggestion was something he wanted to do anyway.]", "emotion": "Persuade"}
+{"utterance": "Mercy? You won't find any here!", "emotion": "Talk_Forceful"}
+{"utterance": "I have to say, you are looking very impressive to me right now. I hope you stick around.", "emotion": "Flirt"}
+{"utterance": "This is a internal matter for Selkath alone! We will adjourn immediately to discuss these things without the interference of outsiders!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] Wuh! Ah, we are sorry about everything! Yeah, everything! We'll leave now!", "emotion": "Persuade"}
+{"utterance": "[Success] I'd... really like to pay you more. I think I can manage something. I don't know why I was arguing.", "emotion": "Persuade"}
+{"utterance": "So you just want me to die? That is just... so... typical of the people I meet... and marry. Thanks a lot!", "emotion": "Talk_Forceful"}
+{"utterance": "[Lie] Of course, great Jedi. I will learn your ways and follow the light.", "emotion": "Bow"}
+{"utterance": "[Inject truth serum: small dosage.]", "emotion": "Use_Computer"}
+{"utterance": "Well, he can do what he wants. He'll get what he deserves. I bought my own license just so I could see that he did.", "emotion": "Talk_Forceful"}
+{"utterance": "Come on, I'm Mission's brother! I'm her family! I mean, think what she'll do if you just let the Exchange kill me! Besides, this is a sweet deal!", "emotion": "Talk_Pleading"}
+{"utterance": "Who would have thought a Force Adept could be found on this insignificant planet? But your talent is no match for a disciple of the dark side!", "emotion": "Talk_Forceful"}
+{"utterance": "You can't escape, Bastila! Wherever you run I'll hunt you down!", "emotion": "Talk_Forceful"}
+{"utterance": "For your crimes against Manaan and the Selkath you are banned forever from this world, on pain of death!", "emotion": "Talk_Forceful"}
+{"utterance": "Word is getting out about it too. We're running out of buyers. Czerka Corporation is not doing well here.", "emotion": "Talk_Sad"}
+{"utterance": "Well, darling, old Tanis might be just what you need. Unless you mean the dunes. I suppose only the Sand People really know them.", "emotion": "Flirt"}
+{"utterance": "[He screams and answers your threat in kind. He was likely waiting for an excuse to attack.]", "emotion": "Taunt"}
+{"utterance": "There is no emotion: there is peace. There is no ignorance: there is knowledge. There is no passion: there is serenity. There is no chaos: there is harmony...", "emotion": "Talk_Sad"}
+{"utterance": "Oh, don't give me that innocent look! You can talk a Hutt out of his credits, you could have found a way... you could have saved him!", "emotion": "Talk_Forceful"}
+{"utterance": "Then get out of here! Now! Or we'll open fire!!", "emotion": "Talk_Forceful"}
+{"utterance": "So make me understand!", "emotion": "Talk_Forceful"}
+{"utterance": "You taunt me with a foolish question like that. How do you think? My people go missing or die.", "emotion": "Talk_Forceful"}
+{"utterance": "Yes, I struck her down in the middle of training, consumed by my anger, embracing the power of hate!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] ...aahhhh! What are you doing?! Remove the arc wrench, remove the arc wrench! Medic!", "emotion": "Horror"}
+{"utterance": "I've enough to worry about with my mining quotas, I don't have time for you.", "emotion": "Talk_Forceful"}
+{"utterance": "I can't say I'm not grateful, but it doesn't change my situation. I still need credits to get my family out of here.", "emotion": "Talk_Sad"}
+{"utterance": "You are pathetic. You will get no warnings from me. Prove your worth, to us and to yourself.", "emotion": "Talk_Forceful"}
+{"utterance": "But... I may just be willing to overlook this transgression if you NEVER EVER TELL ANOTHER LIVING BEING ABOUT IT.", "emotion": "Talk_Forceful"}
+{"utterance": "There's no time to celebrate just yet. I was able to use my Battle Meditation to allow the Republic to break through the Sith fleet. The capital ships are in bombardment range!", "emotion": "Talk_Normal"}
+{"utterance": "Please, I beg you to bring Jolee to speak to me about my husband. Sunry's life depends on it!", "emotion": "Talk_Pleading"}
+{"utterance": "[Success] I see. You... certainly have odd notions for one hoping to become a Sith. I'll play along... for now.", "emotion": "Flirt"}
+{"utterance": "[Force Persuade] You will testify Sunry left before the shot.", "emotion": "Persuade"}
+{"utterance": "[Success] Of course I want to lower the price, but Czerka regulations... ah, who cares about those, right?", "emotion": "Persuade"}
+{"utterance": "Ever brash, ever disrespectful! This is what we have pinned our hopes on?", "emotion": "Talk_Forceful"}
+{"utterance": "You're new around here, aren't you. My name's Duan. Care to buy a Sith girl a drink? That is, unless you're one of those simpering Republic soldiers.", "emotion": "Drunk"}
+{"utterance": "You're the one who can't face the truth! Malak has to be stopped. How can I do that if I let myself be blinded by my feelings for you?", "emotion": "Talk_Pleading"}
+{"utterance": "[Failure] You Czerka slavers, caring about nothing except what you want... what you can take!", "emotion": "Talk_Forceful"}
+{"utterance": "You found that in their Embassy?!", "emotion": "Talk_Forceful"}
+{"utterance": "I, Juhani, shall be your death!", "emotion": "Talk_Forceful"}
+{"utterance": "Hmph. Such insolent students I get, these days. You deserve this, and then some!", "emotion": "Talk_Forceful"}
+{"utterance": "Nothing? There was no reason? You just killed him? Why! There has to be a reason why!", "emotion": "Talk_Forceful"}
+{"utterance": "*chuckle* As you wish. Keep your little secrets, human, if you must. Either way, I sense an intriguing amount of power within you.", "emotion": "Talk_Laughing"}
+{"utterance": "Nobody now. A cruel end, but a necessary one. I will speak no more of it.", "emotion": "Talk_Sad"}
+{"utterance": "Let their blood feed out forests! That will be their payment!", "emotion": "Victory"}
+{"utterance": "No! Say it is not so, human! No - not Shasa! The Sith will pay for this! If it is the last thing I do they will pay!", "emotion": "Talk_Forceful"}
+{"utterance": "What are you doing, coming in here like you're Sand People or something? That's no way to do business. I don't need this.", "emotion": "Talk_Forceful"}
+{"utterance": "The words of outsiders are tainted with lies. You can't convince me otherwise.", "emotion": "Talk_Sad"}
+{"utterance": "You are a pathetic fool, Revan! Together we could have defeated Malak and ruled over an Empire, but now I will be at Lord Malak's side instead!", "emotion": "Talk_Forceful"}
+{"utterance": "Don't hurt me! Please!", "emotion": "Horror"}
+{"utterance": "You hear that, meatbag? I will be back!", "emotion": "Talk_Forceful"}
+{"utterance": "I can make you talk, Carth. Trust me.", "emotion": "Taunt"}
+{"utterance": "You're too trusting, Gadon. These must be the assassins Brejik sent! How else did they get in here?", "emotion": "Talk_Sad"}
+{"utterance": "I will give you all I have, just please, annihilate them from the face of this planet!", "emotion": "Talk_Pleading"}
+{"utterance": "Lady, you are the best. I just had to say that.", "emotion": "Flirt"}
+{"utterance": "At last, my search is over! I was beginning to fear someone else had killed you and deprived me of the pleasure.", "emotion": "Talk_Normal"}
+{"utterance": "Sniveling fool! Like you would ever belong beside me in the academy! I'd rather kill you now and save us the trouble!", "emotion": "Horror"}
+{"utterance": "That I'll judge for myself, thank you. Tell me, human... what do you know of the ways of the Sith? What preconceptions has your mind been polluted with?", "emotion": "Persuade"}
+{"utterance": "Everyone pull back - I don't want to lose any ships when that space station goes down!", "emotion": "Use_Computer_LP"}
+{"utterance": "Me? I didn't do anything! This is an outrage! A travesty of justice!", "emotion": "Talk_Forceful"}
+{"utterance": "Sunry's being held at the Selkath courts. They won't let anyone in to see him. Please, go to the courts, talk to the Judges. Maybe the Selkath will listen to you.", "emotion": "Talk_Pleading"}
+{"utterance": "If it weren't for the Republic, Manaan would already be under Sith control. But we haven't had one word of thanks from the Selkath!", "emotion": "Talk_Forceful"}
+{"utterance": "What this? What going on here? What you doing with my assault droid?", "emotion": "Talk_Forceful"}
+{"utterance": "All hail Lord Revan!  All hail Lord Revan!  All hail Lord Revan!", "emotion": "Bow"}
+{"utterance": "I had... a wife and son on Telos. I thought they would be safe there. But my task force arrived too late to be of much help.", "emotion": "Talk_Sad"}
+{"utterance": "You sure do look good out there on the track, champion. You look pretty good here too.", "emotion": "Flirt"}
+{"utterance": "I don't care. Off you go. Now!!", "emotion": "Talk_Forceful"}
+{"utterance": "[Success] I guess I don't have much choice, do I? I have to take it.", "emotion": "Talk_Sad"}
+{"utterance": "Just reprogram the harvesting machine's computer to overpressure the fuel tanks. Once it's destroyed, the shark should just leave.", "emotion": "Talk_Pleading"}
+{"utterance": "It is kind of you to offer, but my problems are very personal. I'm not sure if I am ready to deal with them.", "emotion": "Talk_Sad"}
+{"utterance": "I started it? You were the one who brought up the issue of the Council! You were the one who questioned our mission! You're the one who mocked me for thinking I was being tested!", "emotion": "Talk_Forceful"}
+{"utterance": "No, Carth, don't give in to your hatred!", "emotion": "Prone"}
+{"utterance": "Could you... hey, I remember you. You're the young lady from Fazza's club. Talk about answered prayers.", "emotion": "Flirt"}
+{"utterance": "Malak is dead - all hail the return of Darth Revan, the true Lord of the Sith!", "emotion": "Salute"}
+{"utterance": "I still can't believe he's gone. What do you want to know?", "emotion": "Talk_Sad"}
+{"utterance": "I think otherwise! RRRAAAAARRRGGGHHH!!", "emotion": "Talk_Forceful"}
+{"utterance": "Griff, don't you recognize me? It's Mission!", "emotion": "Greeting"}
+{"utterance": "You promised to help us. In exchange for our aid you swore to destroy the ancient evils of our Rakata ancestors! Are you saying this means nothing to you now?", "emotion": "Talk_Forceful"}
+{"utterance": "Zaalbar - Revan's a Sith! Just like Malak! It's not a betrayal if you break your life debt now!", "emotion": "Talk_Forceful"}
+{"utterance": "[Force Persuade] You want to let me in.", "emotion": "Persuade"}
+{"utterance": "M-master? What... what do you mean?", "emotion": "Talk_Pleading"}
+{"utterance": "There is no death: there is the Force. Thank you, Revan. I am ready to face my fate now.", "emotion": "Talk_Injured"}
+{"utterance": "*sigh* There's no escaping it, I guess. So be it.", "emotion": "Talk_Sad"}
+{"utterance": "Thank you, outsider. You are... like I thought Rorworr was. Please, leave me. I want to be alone for a bit.", "emotion": "Talk_Sad"}
+{"utterance": "I make you tremble? Do you get all tingly inside, too?", "emotion": "Flirt"}
+{"utterance": "I... I do not wish to discuss this anymore. I would rather return to our mission.", "emotion": "Talk_Sad"}
+{"utterance": "I don't know about that. I hear lots of things and I'm not sure what to think anymore.", "emotion": "Talk_Sad"}
+{"utterance": "[Force Persuade] You want to tell me who paid you and for what.", "emotion": "Persuade"}
+{"utterance": "No, I won't fight you. At best, my warrior comrades would slaughter you, only for ships to burn our homes later.", "emotion": "Talk_Sad"}
+{"utterance": "Huh - I... uh... guess you've been talking to Lena, too. That's okay - I'll figure out a way to get by without your credits. I always do. Besides, I've already got a job lined up for me.", "emotion": "Talk_Sad"}
+{"utterance": "No!", "emotion": "Talk_Forceful"}
+{"utterance": "They may have been able to forgive me. I... could never forgive myself.", "emotion": "Talk_Sad"}
+{"utterance": "This is the way of the dark side, Malak: all things end in death.", "emotion": "Kneel_Talk_Sad"}
+{"utterance": "Impossible! Our own sta...", "emotion": "Talk_Forceful"}
+{"utterance": "Weakness has nothing to do with the corruption of the dark side. A Jedi must always guard against pride and the desire for power. Especially you.", "emotion": "Talk_Sad"}
+{"utterance": "[The girl slaps her leg.] Abds! Me abds!", "emotion": "Inject"}
+{"utterance": "Oh... I get it. I get a little bit wild, and you want to hold it against me.", "emotion": "Drunk"}
+{"utterance": "You... you continue to be there for me, don't you? Even after I keep pushing you away, you're still around when I need you most.", "emotion": "Talk_Sad"}
+{"utterance": "I'd... rather not discuss it. Perhaps another time.", "emotion": "Talk_Sad"}
+{"utterance": "What?! But, but... why did... you come?! Why... are you here, if not to become Sith?!", "emotion": "Talk_Forceful"}
+{"utterance": "What?! So this is what you had planned all along. You wish me killed.", "emotion": "Talk_Forceful"}
+{"utterance": "Affirmation: HK-47 exists only to serve, master.", "emotion": "Salute"}
+{"utterance": "I hear you have been appointed as Arbiter in Sunry's trial. My husband is innocent - please don't let him go to jail for a crime he didn't commit!", "emotion": "Talk_Pleading"}
+{"utterance": "Alright. Goodbye.", "emotion": "Greeting"}
+{"utterance": "What is there to investigate? Obviously Sunry is guilty. But the Republic is doing everything they can to keep him out of a Selkath prison.", "emotion": "Drunk"}
+{"utterance": "Obviously Nurik, the unscrupulous head of the Sandral clan, has abducted my son in retaliation for the destruction of his droids!", "emotion": "Talk_Forceful"}
+{"utterance": "Say, you must be new around here. My name is Viglo. You don't look like those Republic scum, and you aren't one of us Sith. So, what brings you to Manaan?", "emotion": "Drunk"}
+{"utterance": "I... y-yet... retain my... m-mind...", "emotion": "Talk_Sad"}
+{"utterance": "Good luck... and may the Force be with you.", "emotion": "Talk_Injured"}
+{"utterance": "Rahasia and I love each other and we'll be together forever!", "emotion": "Talk_Forceful"}
+{"utterance": "Yes. No... no, that's not what I mean. I mean... I'm sorry. I'm not making much sense, am I?", "emotion": "Talk_Sad"}
+{"utterance": "You have? Please let me see it. I must be sure!", "emotion": "Talk_Pleading"}
+{"utterance": "*You* demand? Why would I listen to you? I'll do as I please, and if watching these fools starve themselves amuses me, that's what I'll do.", "emotion": "Taunt"}
+{"utterance": "Don't tell me to calm down, you ignorant bantha!", "emotion": "Talk_Forceful"}
+{"utterance": "Hey, great! You sliced the encryption on those cards! They change the codes regularly, so you'll have to use it pretty soon or not at all.", "emotion": "Greeting"}
+{"utterance": "That's how we Sith deal with smart-mouth aliens! Now the rest of you get up against the wall before I lose my temper again!", "emotion": "Talk_Forceful"}
+{"utterance": "I guess the pressure got to you out there. It's not the first time a racer lost their edge.", "emotion": "Talk_Sad"}
+{"utterance": "Warning: You'll pay attention to the master, meatbag, or suffer the consequences!", "emotion": "Talk_Forceful"}
+{"utterance": "[Failure] Your lies only make the hole you dig yourself deeper, human!", "emotion": "Talk_Forceful"}
+{"utterance": "You don't know much about business, do you? When an opportunity like this comes along you have to jump at it! Come on, what do you say?", "emotion": "Talk_Pleading"}
+{"utterance": "It doesn't matter. There's no justice on Tatooine. I don't care what happens to them. I just need credits.", "emotion": "Talk_Sad"}
+{"utterance": "We'll deal with these Sith - you get into the Star Forge and find Malak!", "emotion": "Talk_Forceful"}
+{"utterance": "I'm her brother! She's alive? I... I can't believe it! When I heard about Taris I thought the worst! Come on, take me to her! Get me out of here!", "emotion": "Talk_Pleading"}
+{"utterance": "I do my job and keep my mouth shut. Maybe I can do some good if I stay out of people's way.", "emotion": "Talk_Sad"}
+{"utterance": "It's too late for her. Just accept it.", "emotion": "Talk_Forceful"}
+{"utterance": "What? Are you afraid you'll hurt my feelings? Come on, spit it out. You can do it.", "emotion": "Taunt"}
+{"utterance": "No, Shen, I...", "emotion": "Talk_Pleading"}
+{"utterance": "You don't know. Don't go thinking you know, because you don't know. I've got problems.", "emotion": "Talk_Forceful"}
+{"utterance": "That was... unpleasant. Thanks for your help. I would have been a goner. Heh, and the old bat thought I was dead. HA!", "emotion": "Victory"}
+{"utterance": "Oh... yeah I, uh, I knew that.", "emotion": "Talk_Sad"}
+{"utterance": "She was always in danger of being seduced by the dark side, Carth. Bastila was strong, but she was always impatient and headstrong. Malak preyed upon her weaknesses.", "emotion": "Talk_Sad"}
+{"utterance": "There was a battle near one of the southern estate recently. Many people were killed. Do you know anything about it?", "emotion": "Talk_Forceful"}
+{"utterance": "You bring me a single tach gland and you not only save my life but you get a piece of this great business opportunity! I mean, you can't pass this up! Think about it and you'll see I'm right.", "emotion": "Persuade"}
+{"utterance": "What about Bastila? We have to help her!", "emotion": "Talk_Injured"}
+{"utterance": "One? What that mean? You be funny, tough guy?", "emotion": "Talk_Normal"}
+{"utterance": "You did it! You did it! In twenty years I've never seen anybody handle a swoop like that before! Nobody's going to beat that time - nobody!", "emotion": "Victory"}
+{"utterance": "You... you mean it, don't you? But how can I be sure you aren't making a mistake. I... I have to resist. I have to be strong for both of us.", "emotion": "Talk_Sad"}
+{"utterance": "And even now I... feel your strength. It... does help me. Thank you, I think I can face the end, now. If you are the one to end it for me.", "emotion": "Talk_Injured"}
+{"utterance": "Yes... *sob* ...yes, he was having an affair. He was seeing that... that Sith woman.", "emotion": "Horror"}
+{"utterance": "You're trying to get me to admit to incompetence, aren't you? Not going to happen. I stand by my patrol.", "emotion": "Talk_Forceful"}
+{"utterance": "Out there waiting for us...", "emotion": "Horror"}
+{"utterance": "Oh, you're back. You going to stick around this time? Or did I offend you?", "emotion": "Drunk"}
+{"utterance": "Yes, I... could join you in your battle against the Dark Lord. That alone would not make up for all I have done, yet... it would be a step in the right direction.", "emotion": "Talk_Injured"}
+{"utterance": "Nurik!", "emotion": "Talk_Forceful"}
+{"utterance": "Shut up! GROWWLL! You are nameless with dishonor, mad-claw! Yours is a foulness that disgusts me!", "emotion": "Talk_Forceful"}
+{"utterance": "You have willfully and blatantly broken our laws, and for that you shall be sentenced accordingly!", "emotion": "Talk_Forceful"}
+{"utterance": "Please, I beg of you, I must find him. How can you leave him out there with so many dangerous beasts and predators? Have you no humanity?", "emotion": "Talk_Pleading"}
+{"utterance": "[Failure] You lie! You could never have killed the master!!", "emotion": "Talk_Forceful"}
+{"utterance": "Have you come to threaten me again? I've had enough aggravation from you, and I haven't seen a single credit for my trouble.", "emotion": "Talk_Forceful"}
+{"utterance": "It was not long ago that Kashyyyk had no outsider taint.", "emotion": "Talk_Sad"}
+{"utterance": "You are beneath my contempt, Juhani. When you felt the power of the dark side you fled to a cave like some cowering animal! You know nothing of the Force or its true potential!", "emotion": "Talk_Forceful"}
+{"utterance": "*sob* Sunry... No...", "emotion": "Horror"}
+{"utterance": "I love you too.", "emotion": "Talk_Sad"}
+{"utterance": "Ask me again in a few years and it will be me. Heh heh. I'm probably not going back out on the circuit... if there is one.", "emotion": "Talk_Sad"}
+{"utterance": "You lying Matale dog! My Rahasia is twice the man your son will ever be!", "emotion": "Talk_Forceful"}
+{"utterance": "I thought he said shoot. I swear he said shoot.", "emotion": "Talk_Sad"}
+{"utterance": "It not my fault we are here. You blame Gurke if you gotta, not me.", "emotion": "Talk_Sad"}
+{"utterance": "You can't abandon me here. These Sand People, they're animals.", "emotion": "Talk_Pleading"}
+{"utterance": "We will not tolerate insolence! You will obey the rules of our court, or you will be summarily found guilty!", "emotion": "Talk_Forceful"}
+{"utterance": "You shouldn't have let me out, sonny. That was wrong. Admiral Karath won't be too happy with you disobeying his orders.", "emotion": "Persuade"}
+{"utterance": "I should stay here, though. If we face Malak I am afraid his dark presence will overwhelm me. It would not be wise to expose myself to such temptation.", "emotion": "Talk_Injured"}
+{"utterance": "No snappy comeback this time? The thought of torture scares you, hmm? Well, it should! The Sith have ways to inflict pain you can't even imagine.", "emotion": "Talk_Forceful"}
+{"utterance": "Just keep your distance, I'm warning you.", "emotion": "Talk_Forceful"}
+{"utterance": "It is your decision. I wish you well, human, and thank you for the service you have provided.", "emotion": "Salute"}
+{"utterance": "Whoever killed him took everything. All I have left is this desert wraid plate... we thought we were so lucky when he brought it home...", "emotion": "Talk_Sad"}
+{"utterance": "Thanks anyway, but I'll think it through myself.", "emotion": "Talk_Sad"}
+{"utterance": "It was I who hurt her, I who killed her! Her suffering is my fault alone!", "emotion": "Horror"}
+{"utterance": "I... I wish we hadn't come. I wish I'd never found him.", "emotion": "Talk_Sad"}
+{"utterance": "Oh, I'm sorry, did I hurt your feelings? Why don't you run to Master Uthar and tell him all about it. I'm sure he'll be very sympathetic.", "emotion": "Taunt"}
+{"utterance": "Use the mouse and click on the Stealth button to activate it.", "emotion": "Use_Computer_LP"}
+{"utterance": "Through power, I gain victory. Through victory, my chains are broken. The Force shall free me.\"", "emotion": "Talk_Sad"}
+{"utterance": "Oh, hello again. You're, uh... doing well in your training?", "emotion": "Greeting"}
+{"utterance": "Ha ha! Once you become a Sith, you can do anything! You can feel the power coursing through you! None of you fools can compare to me!!", "emotion": "Talk_Laughing"}
+{"utterance": "Mistake? My son Shen is missing! How can there be any doubt the Sandrals are to blame?", "emotion": "Talk_Forceful"}
+{"utterance": "This is futile, master! Why must you keep me back like this? Why can I not learn to fight with a real lightsaber?", "emotion": "Talk_Injured"}
+{"utterance": "Then race for it! By the Force, what do you think an old man like me would have? Bah, take it all.", "emotion": "Talk_Forceful"}
+{"utterance": "Why bother? I mean, will this pay for ship maintenance or whatever? You're just looking for coward credits.", "emotion": "Talk_Forceful"}
+{"utterance": "Stay here on the Star Forge. With me. We won't have time to get off before the Star Forge is destroyed, not if you stop Bastila. But our sacrifice can save the Republic.", "emotion": "Talk_Sad"}
+{"utterance": "No! It's not working right! You don't know what it will do!", "emotion": "Talk_Pleading"}
+{"utterance": "[Failure] You are in no position to tell us how to judge our laws!", "emotion": "Talk_Forceful"}
+{"utterance": "Threat: Guards give up, meatbag. Assassin droids will hunt your whole family tree. Reconsider.", "emotion": "Talk_Forceful"}
+{"utterance": "That Thaylian bog-slime. Do you know that I have been here 36 days, slaving to pay a debt in good faith?", "emotion": "Talk_Forceful"}
+{"utterance": "Uh... you there! I'm... I'm a high ranking executive of the Czerka Corporation! Eh... there's a big reward if you take me back to Anchorhead!", "emotion": "Talk_Pleading"}
+{"utterance": "I couldn't let him betray you... betray everyone. Outsiders are enough of a threat by themselves; we don't need traitors of our own.", "emotion": "Talk_Sad"}
+{"utterance": "Ahh!! Me na awnts palkie bristag!! Bad liaz!!", "emotion": "Horror"}
+{"utterance": "That won't work and you know it! We have to vent the toxin from the harvesting machine. Once the shark is dead, we can get back to mining the kolto.", "emotion": "Talk_Forceful"}
+{"utterance": "Can I help you with anything?", "emotion": "Pause"}
+{"utterance": "After a few trips he didn't come back. Guards say a sandcrawler crew found his body stripped of everything.", "emotion": "Talk_Sad"}
+{"utterance": "No! No-ooo!! You can't do this! Not when we're so close!!", "emotion": "Talk_Pleading"}
+{"utterance": "Hell, I married her. Ha ha ha! No, no, seriously now, I had this friend that crossed Sith-space and got stripped of everything.", "emotion": "Talk_Laughing"}
+{"utterance": "I... Help me, please! Do not let me give in to my anger again!", "emotion": "Talk_Pleading"}
+{"utterance": "Are you certain Revan is truly dead? What if we undertake to train this one, and the Dark Lord should return?", "emotion": "Talk_Forceful"}
+{"utterance": "Well done, Lord Revan. You are as ruthless as Malak ever was! Quickly, now. We have to get to the Star Forge and destroy the Usurper!", "emotion": "Talk_Forceful"}
+{"utterance": "That is murder, and this young person is not even a Sith!", "emotion": "Talk_Forceful"}
+{"utterance": "I... I'm sure. I told you there was no such thing as friends among the Sith, didn't I? Let's... get this over with.", "emotion": "Talk_Sad"}
+{"utterance": "[Success] Flattery, is it? I... suppose it's possible that Master Uthar could award both of us prestige. We'd be ahead of the others, for sure...", "emotion": "Flirt"}
+{"utterance": "You don't exactly pull any punches, do you? Not that I don't deserve it, I suppose.", "emotion": "Talk_Sad"}
+{"utterance": "Hey, come on now, you may as well be killing me. Get me out of here!", "emotion": "Talk_Pleading"}
+{"utterance": "No time to talk with that dragon running around! We can't let it escape now that it's enraged.", "emotion": "Talk_Forceful"}
+{"utterance": "I can't hate you. I tried... I wanted to hold you responsible for all the things you've done. For my... for my wife, for Telos... for Dustil. But I can't.", "emotion": "Talk_Sad"}
+{"utterance": "It's a tragedy, considering the war and all... casualties are going to go through the roof. Czerka is pulling all its kolto out of storage as we speak.", "emotion": "Talk_Sad"}
+{"utterance": "For years I have hid, hoping to someday free my world! I swear you will not take me! I swear!", "emotion": "Talk_Forceful"}
+{"utterance": "I heard another Republic fleet was wiped out in this sector! I hope they don't find the Jedi here!", "emotion": "Horror"}
+{"utterance": "You are... too strong for me. I was a fool to think otherwise. I am... at your mercy.", "emotion": "Talk_Sad"}
+{"utterance": "An outsider outraged at me! I laugh! You know nothing of me, or how hard any of this is!", "emotion": "Talk_Forceful"}
+{"utterance": "Cheaper? Please, it is all I have. I need the credits. Can't you pay the 500?", "emotion": "Talk_Sad"}
+{"utterance": "No he doesn't! You don't say another thing to him! You want to lie, you lie to me, outsider!", "emotion": "Talk_Forceful"}
+{"utterance": "You're a big something, but not so much a threat. That won't work on me, not in the heart of Anchorhead.", "emotion": "Talk_Forceful"}
+{"utterance": "You... You monster! To mock my grief that way!", "emotion": "Talk_Forceful"}
+{"utterance": "We have to kill her! Her Battle Meditation is the only thing stopping the fleet from getting through!", "emotion": "Talk_Forceful"}
